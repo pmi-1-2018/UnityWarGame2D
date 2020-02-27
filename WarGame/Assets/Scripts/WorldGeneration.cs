@@ -13,7 +13,8 @@ public class WorldGeneration : MonoBehaviour
     public int endY;
     public Sprite one;
     public Sprite two;
-    public GameObject player;
+    public GameObject player1;
+
     void Start()
     {
         SpawnMap();
@@ -47,7 +48,7 @@ public class WorldGeneration : MonoBehaviour
         double randomNumberX = rnd.Next(1, endX) * 3 +1.5;
         double randomNumberY = rnd.Next(1, endY) * 3 + 1.5;
         Vector3 spawnVector = new Vector3((float)randomNumberX,(float)randomNumberY);
-        Instantiate(player, spawnVector, Quaternion.identity);
+        Instantiate(player1, spawnVector, Quaternion.identity);
         //player.GetComponent<PlayerMovement>().map = map;
 
         //playerMovementScript.map = map;

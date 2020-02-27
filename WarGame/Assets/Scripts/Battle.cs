@@ -2,33 +2,38 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.Tilemaps;
 
 public class Battle : MonoBehaviour
 {
-    public Tilemap map;
-    public int sizeX;
-    public int sizeY;
-    public Sprite cellSprite;
-
-
-    // Start is called before the first frame update
-    void Start()
+    void Update()
     {
-        CreateBattleField();
-    }
-    
-    void CreateBattleField()
-    {
-        for (int i = 0; i < sizeX; i++)
+        if (Input.GetKeyDown(KeyCode.Q))
         {
-            for (int j = 0; j < sizeY; j++)
-            {
-                Vector3Int tileCoords = new Vector3Int(j, i, 0);
-                GameTile tile = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
-                tile.sprite = cellSprite;
-                map.SetTile(tileCoords, tile);
-            }
+            BeginBattle();
         }
+        if (Input.GetKeyDown(KeyCode.F) && SceneManager.GetActiveScene().ToString() != "SampleScene")
+        {
+            ReturnToMainScene();
+        }
+    }
+    void ReturnToMainScene()
+    {
+        DontDestroyOnLoad(gameObject);
+        SceneManager.LoadScene("SampleScene");
+    }
+    void BeginBattle()
+    {
+        GotoBattleScene();
+        Fight();
+    }
+    void Fight()
+    {
+        gameObject.transform.position = new Vector3(0, 0, 0);
+    }
+    void GotoBattleScene()
+    {
+        DontDestroyOnLoad(gameObject);
+       
+        SceneManager.LoadScene("BattleScene");
     }
 }
