@@ -14,7 +14,6 @@ public abstract class TerrainTile : Tile{
         return myTextures;
     }
 
-
     public override bool StartUp(Vector3Int position, ITilemap tilemap, GameObject go)
     {
         specialvals = new List<int>();

@@ -1,19 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Tilemaps;
+
+[CreateAssetMenu(fileName ="New AstarTile", menuName ="Tiles/AstarTile")]
 public class GameTile : Tile
 {
+    public Sprite sprite;
     public int movePenalty = 1;
-    // Start is called before the first frame update
     void Start()
-    {   
-        
-    }
-
-    // Update is called once per frame
-    void Update()
     {
-        
+        this.gameObject.GetComponent<SpriteRenderer>().sprite = sprite;
     }
+    
+   
 }
