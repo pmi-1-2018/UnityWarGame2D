@@ -52,7 +52,9 @@ public class TileAutomata : MonoBehaviour {
             {
                 if (terrainMap[x, y] == 1)
                     topMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), topTile);
-                    botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+                    
+                botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+                
             }
         }
 
@@ -66,6 +68,7 @@ public class TileAutomata : MonoBehaviour {
             for (int y = 0; y < height; y++)
             {
                 terrainMap[x, y] = Random.Range(1, 101) < iniChance ? 1 : 0;
+
             }
 
         }
