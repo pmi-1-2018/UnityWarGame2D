@@ -14,7 +14,7 @@ public class CameraFollow : MonoBehaviour
     Transform getPlayer()
     {
         Transform player;
-        player = GameObject.Find("PlayerParent(Clone)").transform;
+        player = GameObject.Find("PlayerParent").transform;
         return player;
     }
 }

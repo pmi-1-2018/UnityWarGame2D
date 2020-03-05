@@ -5,20 +5,29 @@ using UnityEngine.SceneManagement;
 
 public class Battle : MonoBehaviour
 {
+    public void OnCollisionEnter2D(Collision2D collision)
+    {
+        GotoBattleScene();
+    }
+    private void Start()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q))
         {
             BeginBattle();
         }
-        if (Input.GetKeyDown(KeyCode.F) && SceneManager.GetActiveScene().ToString() != "SampleScene")
+        if (Input.GetKeyDown(KeyCode.F))
         {
             ReturnToMainScene();
         }
     }
     void ReturnToMainScene()
     {
-        DontDestroyOnLoad(gameObject);
+        
+        gameObject.SetActive(true);
         SceneManager.LoadScene("SampleScene");
     }
     void BeginBattle()
@@ -32,8 +41,7 @@ public class Battle : MonoBehaviour
     }
     void GotoBattleScene()
     {
-        DontDestroyOnLoad(gameObject);
-       
+        gameObject.SetActive(false);
         SceneManager.LoadScene("BattleScene");
     }
 }

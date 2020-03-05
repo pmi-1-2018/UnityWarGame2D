@@ -18,7 +18,7 @@ public class WorldGeneration : MonoBehaviour
     void Start()
     {
         SpawnMap();
-        SpawnPlayer();
+        //SpawnPlayer();
     }
 
     void SpawnMap()
