@@ -24,7 +24,8 @@ public class TileAutomata : MonoBehaviour {
     public Tilemap botMap;
     public Tile topTile;
     public Tile botTile;
-
+    public Sprite topSprite;
+    public Sprite botSprite;
     int width;
     int height;
 
@@ -45,14 +46,28 @@ public class TileAutomata : MonoBehaviour {
         {
             terrainMap = genTilePos(terrainMap);
         }
-
+        //GameTile topT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
+        //GameTile botT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
         for (int x = 0; x < width; x++)
         {
             for (int y = 0; y < height; y++)
             {
+
                 if (terrainMap[x, y] == 1)
+                {
+                    //GameTile topT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
+                    //GameTile botT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
+
+                    //topT.sprite = topSprite;
+                    //botT.sprite = botSprite;
                     topMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), topTile);
+                    //botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+
+                }
+                else
+                {
                     botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+                }
             }
         }
 
@@ -134,7 +149,7 @@ public class TileAutomata : MonoBehaviour {
     }
     void Update () {
 
-        if (Input.GetKey(KeyCode.S))
+        if (Input.GetKey(KeyCode.P))
         {
             SaveAssetMap();
             count++;
