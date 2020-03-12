@@ -10,12 +10,12 @@ public class WorldGeneration : MonoBehaviour
 
     void Start()
     {
-        SpawnPlayer();
+        //SpawnPlayer();
     }
     
     void SpawnPlayer()
     {
-        Vector3 spawnVector = tileAutomata.GetComponent<Camera>().transform.position;
-        Instantiate(player, spawnVector, Quaternion.identity);
+        //Vector3 spawnVector = tileAutomata.GetComponent<Camera>().transform.position;
+        //Instantiate(player, spawnVector, Quaternion.identity);
     }
 }
