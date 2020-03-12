@@ -1,8 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Tilemaps;
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
@@ -72,11 +70,11 @@ public class PlayerMovement : MonoBehaviour
     }
     void Move()
     {
-        
+
         endPos = GetInput();
         transform.position = Vector2.Lerp(startPos, endPos, progress);
         progress += step;
-        Vector3Int cellPos = new Vector3Int((int)grid.WorldToCell(startPos).x,(int)grid.WorldToCell(startPos).y,0);
+        Vector3Int cellPos = new Vector3Int((int)grid.WorldToCell(startPos).x, (int)grid.WorldToCell(startPos).y, 0);
         Debug.Log(top.GetTile(cellPos));
         if (progress != 1f)
         {
@@ -84,9 +82,9 @@ public class PlayerMovement : MonoBehaviour
         }
         if (transform.position.x == endPos.x && transform.position.y == endPos.y)
         {
-             startPos = endPos;
-             progress = 0f;
-             anim.SetBool("isMoving", false);
+            startPos = endPos;
+            progress = 0f;
+            anim.SetBool("isMoving", false);
         }
     }
 }
