@@ -1,6 +1,8 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 using UnityEngine.Tilemaps;
-public class Player : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
