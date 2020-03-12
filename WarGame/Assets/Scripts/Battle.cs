@@ -7,18 +7,10 @@ public class Battle : MonoBehaviour
 {
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        GotoBattleScene();
-    }
-    private void Start()
-    {
-        DontDestroyOnLoad(gameObject);
+        StartCoroutine(ChangeScene("BattleScene"));
     }
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            BeginBattle();
-        }
         if (Input.GetKeyDown(KeyCode.F))
         {
             ReturnToMainScene();
@@ -26,22 +18,23 @@ public class Battle : MonoBehaviour
     }
     void ReturnToMainScene()
     {
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadSceneAsync("SampleScene", LoadSceneMode.Single);
         
-        gameObject.SetActive(true);
-        SceneManager.LoadScene("SampleScene");
-    }
-    void BeginBattle()
-    {
-        GotoBattleScene();
-        Fight();
     }
     void Fight()
     {
         gameObject.transform.position = new Vector3(0, 0, 0);
     }
-    void GotoBattleScene()
+    IEnumerator ChangeScene(string newSceneName)
     {
-        gameObject.SetActive(false);
-        SceneManager.LoadScene("BattleScene");
+        Scene currentScene = SceneManager.GetActiveScene();
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(newSceneName, LoadSceneMode.Additive);
+        while (!asyncLoad.isDone)
+        {
+            yield return null;
+        }
+        SceneManager.MoveGameObjectToScene(gameObject, SceneManager.GetSceneByName(newSceneName));
+        SceneManager.UnloadSceneAsync(currentScene);
     }
 }
