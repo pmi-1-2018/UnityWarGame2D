@@ -456,7 +456,7 @@ PrefabInstance:
     - target: {fileID: 2578024721054833952, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
       propertyPath: step
-      value: 0.1
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 2578024721054833952, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
@@ -552,6 +552,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_AngularDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2578024721111213156, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
@@ -735,7 +750,7 @@ MonoBehaviour:
   top: {fileID: 1574991635}
   bot: {fileID: 1395856350}
   endPos: {x: 0, y: 0}
-  step: 0.1
+  step: 0.03
   grid: {fileID: 1332016394}
 --- !u!50 &934800998 stripped
 Rigidbody2D:
@@ -1370,12 +1385,12 @@ PrefabInstance:
     - target: {fileID: 2578024721054833966, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -170.05956
+      value: -151.5
       objectReference: {fileID: 0}
     - target: {fileID: 2578024721054833966, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -100.10288
+      value: -100.5
       objectReference: {fileID: 0}
     - target: {fileID: 2578024721054833966, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
@@ -1421,6 +1436,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_Mass
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_AngularDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 2578024721054833967, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2848868069900372113, guid: 36488f24ce4cdd84c9d71b1bb04d26cf, type: 3}
