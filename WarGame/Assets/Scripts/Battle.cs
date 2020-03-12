@@ -8,6 +8,7 @@ public class Battle : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D collision)
     {
         StartCoroutine(ChangeScene("BattleScene"));
+        Fight();
     }
     void Update()
     {
@@ -18,12 +19,20 @@ public class Battle : MonoBehaviour
     }
     void ReturnToMainScene()
     {
+        foreach (var unit in GetComponent<Army>().GetArmy)
+        {
+            unit.GetComponent<SpriteRenderer>().enabled = false;
+        }
         Scene currentScene = SceneManager.GetActiveScene();
         SceneManager.LoadSceneAsync("SampleScene", LoadSceneMode.Single);
     }
     void Fight()
     {
-        gameObject.transform.position = new Vector3(0, 0, 0);
+        foreach(var unit in GetComponent<Army>().GetArmy)
+        {
+            unit.GetComponent<SpriteRenderer>().enabled = true;
+        }
+        
     }
     IEnumerator ChangeScene(string newSceneName)
     {
