@@ -20,7 +20,6 @@ public class Battle : MonoBehaviour
     {
         Scene currentScene = SceneManager.GetActiveScene();
         SceneManager.LoadSceneAsync("SampleScene", LoadSceneMode.Single);
-        
     }
     void Fight()
     {
