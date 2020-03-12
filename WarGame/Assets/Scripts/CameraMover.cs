@@ -7,12 +7,18 @@ public class CameraMover : MonoBehaviour {
     public float speed;
     float inputX;
     float inputZ;
+	// Use this for initialization
 	void Start () {
-		
-	}
+        Transform pl;
+        pl = GameObject.Find("PlayerParent").transform;
+        transform.position = new Vector3(pl.position.x, pl.position.y, -10);
+    }
+	
+	// Update is called once per frame
 	void Update () {
             inputX = Input.GetAxis("Horizontal");
             inputZ = Input.GetAxis("Vertical");
+
             if (inputX != 0)
                 moveX();
          if (inputZ != 0)
@@ -28,6 +34,8 @@ public class CameraMover : MonoBehaviour {
         }
 
     }
+
+
         void moveZ()
         {
             transform.position += transform.up * inputZ * speed * Time.deltaTime;
