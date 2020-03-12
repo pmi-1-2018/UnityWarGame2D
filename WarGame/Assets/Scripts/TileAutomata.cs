@@ -22,10 +22,8 @@ public class TileAutomata : MonoBehaviour {
     public Vector3Int tmpSize;
     public Tilemap topMap;
     public Tilemap botMap;
-    public Tile topTile;
+    public TerrainTile topTile;
     public Tile botTile;
-    public Sprite topSprite;
-    public Sprite botSprite;
     int width;
     int height;
 
@@ -61,9 +59,8 @@ public class TileAutomata : MonoBehaviour {
                     //topT.sprite = topSprite;
                     //botT.sprite = botSprite;
                     topMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), topTile);
-
-                    botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
                 }
+                botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
             }
         }
 
@@ -77,7 +74,6 @@ public class TileAutomata : MonoBehaviour {
             for (int y = 0; y < height; y++)
             {
                 terrainMap[x, y] = Random.Range(1, 101) < iniChance ? 1 : 0;
-
             }
 
         }
