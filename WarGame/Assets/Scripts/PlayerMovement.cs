@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
-        stamina = 10;
+        stamina = 100;
         anim = GetComponent<Animator>();
         startPos = transform.position;
         endPos = transform.position;
