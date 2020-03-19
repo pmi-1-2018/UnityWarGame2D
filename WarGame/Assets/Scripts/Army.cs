@@ -10,7 +10,7 @@ public class Army : MonoBehaviour
 
     public List<GameObject> GetArmy { get => army; }
 
-    void Start()
+    void Awake()
     {
         for (int i = 0; i < 5; i++)
         {

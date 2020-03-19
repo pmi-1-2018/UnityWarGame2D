@@ -10,8 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 8038926928652621979}
   - component: {fileID: 8038926928652621978}
-  - component: {fileID: 8038926928652621989}
   - component: {fileID: 8038926928652621988}
+  - component: {fileID: -4905812509695649874}
   m_Layer: 0
   m_Name: warrior
   m_TagString: Untagged
@@ -83,20 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &8038926928652621989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8038926928652621991}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e358e7c85ff87674cbdd82c0b0dedd27, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damage: 100
-  health: 100
 --- !u!50 &8038926928652621988
 Rigidbody2D:
   serializedVersion: 4
@@ -118,3 +104,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-4905812509695649874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8038926928652621991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a479acd1322ccf340867e1dd4857b6dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 50
+  health: 100

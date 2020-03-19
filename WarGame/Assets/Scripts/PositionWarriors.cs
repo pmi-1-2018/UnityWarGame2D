@@ -4,24 +4,39 @@ using UnityEngine;
 
 public class PositionWarriors : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        var list = GameObject.FindGameObjectsWithTag("unit");
-    }
-
     // Update is called once per frame
     void Update()
     {
         
     }
 
-    void DeployUnits(GameObject[] list)
+    public static void PositionUnits(List<GameObject> armyAttacking, List<GameObject> armyDefending, bool enableRendering)
     {
-        for (int i = 1; i <= list.Length; i++)
+        var maxCount = System.Math.Max(armyDefending.Count, armyAttacking.Count);
+        for (int i = 0; i < maxCount; i++)
         {
-            list[i - 1].SetActive(true);
-            list[i-1].transform.position = new Vector3(30 + 217 * i, 30 + 233 * i, 0);
+            try
+            {
+                armyDefending[i].transform.position = new Vector3(10 + 4 * i, 0, 0);
+                if (enableRendering)
+                {
+                    armyDefending[i].GetComponent<SpriteRenderer>().enabled = true;
+                }
+            }
+            catch (System.Exception)
+            {
+            }
+            try
+            {
+                armyAttacking[i].transform.position = new Vector3(-10 - 4 * i, 0, 0);
+                if (enableRendering)
+                {
+                    armyAttacking[i].GetComponent<SpriteRenderer>().enabled = true;
+                }
+            }
+            catch (System.Exception)
+            {
+            }
         }
     }
 }
