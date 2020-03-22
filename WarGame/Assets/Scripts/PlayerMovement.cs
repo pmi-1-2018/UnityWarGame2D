@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private UI_Inventory uiInventory;
+
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     private Animator anim;
@@ -19,12 +21,29 @@ public class PlayerMovement : MonoBehaviour
     private float progress;
     public Grid grid;
 
+
+    private Inventory inventory;
+
+
+    //private void Awake()
+    //{
+    //    inventory = new Inventory();
+    //    uiInventory.SetInventory(inventory);
+    //}
+
     private void Start()
     {
-        stamina = 100;
+        stamina = 300;
         anim = GetComponent<Animator>();
         startPos = transform.position;
         endPos = transform.position;
+
+        inventory = new Inventory();
+        uiInventory.SetInventory(inventory);
+
+        ItemWorld.SpawnItemWorld(new Vector3(-150, -110), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+        ItemWorld.SpawnItemWorld(new Vector3(-171, -110), new Item { itemType = Item.ItemType.Sword, amount = 1 });
+        ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
     }
     private void Update()
     {
@@ -70,13 +89,24 @@ public class PlayerMovement : MonoBehaviour
         return endPos;
        
     }
+
+    private void OnTriggerEnter2D(Collider2D collider)
+    {
+        ItemWorld itemWorld = collider.GetComponent<ItemWorld>();
+        if(itemWorld != null)
+        {
+            Debug.Log("IMHERE   DDSDFFD");
+            inventory.AddItem(itemWorld.GetItem());
+            itemWorld.DestroySelf();
+        }
+    }
+
     void Move()
     {
-        
         endPos = GetInput();
         transform.position = Vector2.Lerp(startPos, endPos, progress);
         progress += step;
-        Vector3Int cellPos = new Vector3Int((int)grid.WorldToCell(startPos).x,(int)grid.WorldToCell(startPos).y,0);
+        Vector3Int cellPos = new Vector3Int((int)grid.WorldToCell(startPos).x, (int)grid.WorldToCell(startPos).y, 0);
         Debug.Log(top.GetTile(cellPos));
         if (progress != 1f)
         {
@@ -84,9 +114,9 @@ public class PlayerMovement : MonoBehaviour
         }
         if (transform.position.x == endPos.x && transform.position.y == endPos.y)
         {
-             startPos = endPos;
-             progress = 0f;
-             anim.SetBool("isMoving", false);
+            startPos = endPos;
+            progress = 0f;
+            anim.SetBool("isMoving", false);
         }
     }
 }
