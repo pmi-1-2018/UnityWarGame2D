@@ -13,9 +13,11 @@ public class Obstacle
 }
 public class Tree : Obstacle
 {
+    private Sprite[] allSprites = Resources.LoadAll<Sprite>("Sprites/trees");
     public Tree()
     {
-        this.Sprite = Resources.Load<Sprite>("Grass");
+
+        this.Sprite = this.allSprites[Random.Range(0, this.allSprites.Length)];
         if (this.Sprite != null)
         {
             Debug.Log("Obstacle loaded");

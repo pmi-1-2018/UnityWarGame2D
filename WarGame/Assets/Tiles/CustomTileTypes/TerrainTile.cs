@@ -6,24 +6,35 @@ using UnityEngine.Tilemaps;
 [CreateAssetMenu(menuName = "Tiles/Terrain")]
 public class TerrainTile : Tile
 {
-    public Sprite grassSprite;
-    public Sprite treeSprite;
+    private Sprite grassSprite;
     [Range(0, 100)]
-    public int treeIniChance;
-    //public ObstacleBuilder obstacleBuilder;
-    
-    // method for rendering tile, all data returned via tileData
+    private int treeIniChance;
+    private ObstacleBuilder obstacleBuilder ;
+    private Obstacle obj;
+
+    public Sprite GrassSprite { get => grassSprite; }
+    public Obstacle Obj { get => obj; }
+
+    public TerrainTile(int treeIniChance)
+    {
+        this.treeIniChance = treeIniChance;
+        grassSprite = Resources.LoadAll<Sprite>("Sprites/Grass")[0];
+        obstacleBuilder = new ObstacleBuilder();
+    }
+
     public override void GetTileData(Vector3Int position, ITilemap tilemap, ref TileData tileData)
     {
-        ObstacleBuilder obstacleBuilder = new ObstacleBuilder();
-        Obstacle obstacle = new Obstacle();
         if (Random.Range(1, 101) < treeIniChance)
         {
-            Debug.Log(111111111111111111);
             obstacleBuilder.BuildTree();
-            obstacle = obstacleBuilder.GetResult();
+            obj = obstacleBuilder.GetResult();
+            tileData.sprite = obj.Sprite;
         }
-        tileData.sprite = obstacle.Sprite;
+        else
+        {
+            tileData.sprite = grassSprite;
+            obj = null;
+        }
         tileData.colliderType = Tile.ColliderType.Sprite;
     }
 }

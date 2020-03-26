@@ -22,8 +22,11 @@ public class TileAutomata : MonoBehaviour {
     public Vector3Int tmpSize;
     public Tilemap topMap;
     public Tilemap botMap;
-    public TerrainTile topTile;
     public Tile botTile;
+
+    [Range(0, 101)]
+    public int treeIniChance;
+
     int width;
     int height;
 
@@ -53,18 +56,18 @@ public class TileAutomata : MonoBehaviour {
 
                 if (terrainMap[x, y] == 1)
                 {
-                    //GameTile topT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
-                    //GameTile botT = (GameTile)ScriptableObject.CreateInstance(typeof(GameTile));
-
-                    //topT.sprite = topSprite;
-                    //botT.sprite = botSprite;
+                    TerrainTile topTile = new TerrainTile(treeIniChance);
+                    var ground = new Tile();
+                    ground.sprite = topTile.GrassSprite;
+                    botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), ground);
                     topMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), topTile);
                 }
-                botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+                else
+                {
+                    botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), botTile);
+                }
             }
         }
-
-
     }
 
     public void initPos()
@@ -167,10 +170,7 @@ public class TileAutomata : MonoBehaviour {
                 EditorUtility.DisplayDialog("Tilemap NOT saved", "An ERROR occured while trying to saveTilemap under" + savePath, "Continue");
             }
 
-
         }
-
-
     }
 
     public void clearMap(bool complete)
