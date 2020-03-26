@@ -41,10 +41,12 @@ public class PlayerMovement : MonoBehaviour
         inventory = new Inventory();
         uiInventory.SetInventory(inventory);
 
-        ItemWorld.SpawnItemWorld(new Vector3(-150, -110), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
-        ItemWorld.SpawnItemWorld(new Vector3(-171, -110), new Item { itemType = Item.ItemType.Sword, amount = 1 });
-        ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
+        //ItemWorld.SpawnItemWorld(new Vector3(-150, -90), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+        //ItemWorld.SpawnItemWorld(new Vector3(-171, -110), new Item { itemType = Item.ItemType.Sword, amount = 1 });
+        //ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
     }
+
+
     private void Update()
     {
         Move();
@@ -90,12 +92,11 @@ public class PlayerMovement : MonoBehaviour
        
     }
 
-    private void OnTriggerEnter2D(Collider2D collider)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        ItemWorld itemWorld = collider.GetComponent<ItemWorld>();
-        if(itemWorld != null)
+        ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
+        if (itemWorld != null)
         {
-            Debug.Log("IMHERE   DDSDFFD");
             inventory.AddItem(itemWorld.GetItem());
             itemWorld.DestroySelf();
         }
