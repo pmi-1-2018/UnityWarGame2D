@@ -7,15 +7,26 @@ public class WorldGeneration : MonoBehaviour
 {
     public GameObject player;
     public GameObject tileAutomata;
+    public Grid grid;
+    public Tilemap top;
+    public Tilemap bot;
 
     void Start()
     {
-        SpawnPlayer();
+        if (GameObject.Find("PlayerParent") == null)
+        {
+            SpawnPlayers();
+        }
     }
     
-    void SpawnPlayer()
+    void SpawnPlayers()
     {
-        Vector3 spawnVector = tileAutomata.GetComponent<Camera>().transform.position;
-        Instantiate(player, spawnVector, Quaternion.identity);
+        Vector3 spawnVector1 = new Vector3(-175.5f, -100.5f, 0);
+        var res = Instantiate(player, spawnVector1, Quaternion.identity);
+        res.name = "PlayerParent";
+        res.GetComponent<PlayerMovement>().grid = grid;
+        res.GetComponent<PlayerMovement>().top = top;
+        res.GetComponent<PlayerMovement>().bot = bot;
+
     }
 }

@@ -174,6 +174,11 @@ MonoBehaviour:
   moveSpeed: 800
   rb: {fileID: 2578024721054833967}
   stamina: 10
+  top: {fileID: 0}
+  bot: {fileID: 0}
+  endPos: {x: 0, y: 0}
+  step: 0
+  grid: {fileID: 0}
 --- !u!114 &2848868069900372113
 MonoBehaviour:
   m_ObjectHideFlags: 0
