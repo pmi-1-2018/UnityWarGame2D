@@ -10,6 +10,8 @@ public class TurnSystem : MonoBehaviour
     public GameObject player1;
     public GameObject player2;
     public CameraFollow cam;
+
+
     void Start()
     {
         player2.GetComponent<Player>().stamina = 0;
@@ -19,6 +21,7 @@ public class TurnSystem : MonoBehaviour
     {
         if (turnCounter % 2 != 1)
         {
+
             cam.cameraPos = player1.transform.position;
         }
         else
