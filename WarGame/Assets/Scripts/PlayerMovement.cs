@@ -21,15 +21,7 @@ public class PlayerMovement : MonoBehaviour
     private float progress;
     public Grid grid;
 
-
     private Inventory inventory;
-
-
-    //private void Awake()
-    //{
-    //    inventory = new Inventory();
-    //    uiInventory.SetInventory(inventory);
-    //}
 
     private void Start()
     {
@@ -38,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
         startPos = transform.position;
         endPos = transform.position;
 
-        inventory = new Inventory();
+        inventory = new Inventory(UseItem);
         uiInventory.SetInventory(inventory);
 
         //ItemWorld.SpawnItemWorld(new Vector3(-150, -90), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
@@ -46,11 +38,39 @@ public class PlayerMovement : MonoBehaviour
         //ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
     }
 
+    private void UseItem(Item item)
+    {
+        switch (item.itemType)
+        {
+            case Item.ItemType.HealthPotion:
+                Debug.Log("It's HEALTH POTION");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+                break;
+            case Item.ItemType.ManaPotion:
+                Debug.Log("It's MANA POTION");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1 });
+                break;
+            case Item.ItemType.Coin:
+                Debug.Log("It's COIN");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
+                break;
+            case Item.ItemType.Medkit:
+                Debug.Log("It's MEDKIT");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Medkit, amount = 1 });
+                break;
+            case Item.ItemType.Sword:
+                Debug.Log("It's SWORD");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Sword, amount = 1 });
+                break;
+        }
+    }
+
 
     private void Update()
     {
         Move();
     }
+
     private Vector2 GetInput()
     {
         direction = Vector2.zero;

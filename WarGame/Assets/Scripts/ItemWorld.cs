@@ -15,6 +15,10 @@ public class ItemWorld : MonoBehaviour
         return itemWorld;
     }
 
+    //public static ItemWorld DropItem(Item item)
+    //{
+    //}
+
     private Item item;
     private SpriteRenderer spriteRenderer;
     private TextMeshPro textMeshPro;
