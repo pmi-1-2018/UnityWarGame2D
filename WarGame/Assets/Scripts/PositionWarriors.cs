@@ -4,12 +4,6 @@ using UnityEngine;
 
 public class PositionWarriors : MonoBehaviour
 {
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public static void PositionUnits(List<GameObject> armyAttacking, List<GameObject> armyDefending, bool enableRendering)
     {
         var maxCount = System.Math.Max(armyDefending.Count, armyAttacking.Count);

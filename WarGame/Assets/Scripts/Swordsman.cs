@@ -15,10 +15,4 @@ public class Swordsman : Unit
     {
         target.GetComponentInChildren<Unit>().Health -= damage;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }

@@ -36,10 +36,26 @@ public class GameManager : MonoBehaviour
         PositionWarriors.PositionUnits(attackingPlayer.GetComponent<Army>().GetArmy, opponent.GetComponent<Army>().GetArmy, true);
         StartCoroutine(Fight(attackingPlayer, opponent));
     }
-    IEnumerator Fight(GameObject attackingPlayer,GameObject opponent)
+    IEnumerator Fight(GameObject attackingPlayer, GameObject opponent)
     {
         var attackingArmy = attackingPlayer.GetComponent<Army>().GetArmy;
         var defendingArmy = opponent.GetComponent<Army>().GetArmy;
+        foreach (GameObject art in attackingPlayer.GetComponent<Army>().GetArtifacts)
+        {
+            var artComp = art.GetComponentInChildren<Artifact>();
+            if (artComp.Type == ArtifactType.fightArt)
+            {
+                artComp.EnableBoost(attackingArmy);
+            }
+        }
+        foreach (GameObject art in opponent.GetComponent<Army>().GetArtifacts)
+        {
+            var artComp = art.GetComponentInChildren<Artifact>();
+            if (artComp.Type == ArtifactType.fightArt)
+            {
+                artComp.EnableBoost(defendingArmy);
+            }
+        }
         int turn = 0;
         while (attackingArmy.Count > 0 && defendingArmy.Count > 0)
         {
@@ -78,12 +94,28 @@ public class GameManager : MonoBehaviour
             GameObject.Destroy(opponent);
             opponent = null;
             Debug.Log("winner: " + attackingPlayer.name);
+            foreach (GameObject art in attackingPlayer.GetComponent<Army>().GetArtifacts)
+            {
+                var artComp = art.GetComponentInChildren<Artifact>();
+                if (artComp.Type == ArtifactType.fightArt)
+                {
+                    artComp.DisableBoost(attackingArmy);
+                }
+            }
         }
         else
         {
             Debug.Log("winner: " + opponent.name);
             GameObject.Destroy(attackingPlayer);
             attackingPlayer = null;
+            foreach (GameObject art in opponent.GetComponent<Army>().GetArtifacts)
+            {
+                var artComp = art.GetComponentInChildren<Artifact>();
+                if (artComp.Type == ArtifactType.fightArt)
+                {
+                    artComp.DisableBoost(defendingArmy);
+                }
+            }
         }
         ReturnToMainScene(attackingPlayer, opponent);
     }
