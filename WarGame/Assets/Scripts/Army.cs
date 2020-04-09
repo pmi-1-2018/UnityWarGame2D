@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Army : MonoBehaviour
 {
-    private List<GameObject> artifacts = new List<GameObject>();
+    private ArtifactsBag artifacts = new ArtifactsBag();
     private List<GameObject> army = new List<GameObject>();
     public GameObject pepega;
     public GameObject archerPrefab;
@@ -12,7 +12,7 @@ public class Army : MonoBehaviour
     public GameObject HeroSwordPrefab;
 
     public List<GameObject> GetArmy { get => army; }
-    public List<GameObject> GetArtifacts { get => artifacts; }
+    public ArtifactsBag GetArtifacts { get => artifacts; }
 
     void Awake()
     {
