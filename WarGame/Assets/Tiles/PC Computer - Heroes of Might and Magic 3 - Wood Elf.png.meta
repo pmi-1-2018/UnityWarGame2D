@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 424b3928a9d546147b928dae2732c91a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -433320912617516799
+    second: idle1
+  - first:
+      213: -9049761572448158302
+    second: idle2
+  - first:
+      213: -3788438683278852290
+    second: idle3
+  - first:
+      213: -7845553756596753201
+    second: idle4
+  - first:
+      213: -2501142117924170759
+    second: idle5
+  - first:
+      213: -5073765851605650705
+    second: idle6
+  - first:
+      213: -6748386907972582862
+    second: idle7
+  - first:
+      213: -6352417655758205438
+    second: idle8
+  - first:
+      213: 362660629156105968
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_8
+  - first:
+      213: 2961508786697143324
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_9
+  - first:
+      213: -5060500298425621163
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_10
+  - first:
+      213: 301563246675409280
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_11
+  - first:
+      213: 5567561940318152535
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_12
+  - first:
+      213: 3175250886788845308
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_13
+  - first:
+      213: -2405176776818063801
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_14
+  - first:
+      213: -3456270154235301267
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_15
+  - first:
+      213: 6362239592443048210
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_16
+  - first:
+      213: 1118214457108387168
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_17
+  - first:
+      213: -5501121240855297153
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_18
+  - first:
+      213: -3614170339633868422
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_19
+  - first:
+      213: 3366364972338105947
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_20
+  - first:
+      213: 5199288451373724808
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_21
+  - first:
+      213: -3410481160117604863
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_22
+  - first:
+      213: 4035159933573116128
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_23
+  - first:
+      213: -3902464299248874190
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_24
+  - first:
+      213: 2946076510321077857
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_25
+  - first:
+      213: 6393515528560105514
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_26
+  - first:
+      213: -8779303247212107967
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_27
+  - first:
+      213: -524033153368126103
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_28
+  - first:
+      213: -1465873657355111026
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_29
+  - first:
+      213: 4549368932438948179
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_30
+  - first:
+      213: -8080574702556709370
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_31
+  - first:
+      213: 5100906877773683782
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_32
+  - first:
+      213: 9100909314215475227
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_33
+  - first:
+      213: -3334078016606123580
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_34
+  - first:
+      213: -3214675574796351888
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_35
+  - first:
+      213: 4308604951518661890
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_36
+  - first:
+      213: 1306503486228126807
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_37
+  - first:
+      213: -3602053253876862583
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_38
+  - first:
+      213: 7662085823183638430
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_39
+  - first:
+      213: -8677523583568033891
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_40
+  - first:
+      213: 5255411826144421262
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_41
+  - first:
+      213: 9162922571305042880
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_42
+  - first:
+      213: 8253189904894432663
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_43
+  - first:
+      213: -62536217751732637
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_44
+  - first:
+      213: -1821710974231695101
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_45
+  - first:
+      213: -3315423320464949331
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_46
+  - first:
+      213: 3447123041700274524
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_47
+  - first:
+      213: 3173176912037200834
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_48
+  - first:
+      213: 8209610241060169001
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_49
+  - first:
+      213: 5563364968219842714
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_50
+  - first:
+      213: -1719213801005429845
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_51
+  - first:
+      213: 652263278514387237
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_52
+  - first:
+      213: -5174310891989817247
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_53
+  - first:
+      213: -6879461533749106956
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_54
+  - first:
+      213: -2631696409946764147
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_55
+  - first:
+      213: 7091445359377045564
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_56
+  - first:
+      213: -8498848272471028244
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_57
+  - first:
+      213: -4760659861781771089
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_58
+  - first:
+      213: -616200051304576481
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_59
+  - first:
+      213: 1405878211970774189
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_60
+  - first:
+      213: 6195870571227096440
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_61
+  - first:
+      213: 9214834717982023628
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_62
+  - first:
+      213: 4306687664303489739
+    second: att1
+  - first:
+      213: -3553348424930686084
+    second: att2
+  - first:
+      213: 8365234195238664634
+    second: att3
+  - first:
+      213: 8073265443769821387
+    second: att4
+  - first:
+      213: 7099573146435213875
+    second: att5
+  - first:
+      213: 6145809740907561130
+    second: att6
+  - first:
+      213: 6310536601835924874
+    second: att7
+  - first:
+      213: 9145672085439107417
+    second: att8
+  - first:
+      213: 4841102030775257991
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_71
+  - first:
+      213: 6674445237985463096
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_72
+  - first:
+      213: -5946407171389643054
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_73
+  - first:
+      213: 5208868253147600671
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_74
+  - first:
+      213: 5027729543598136730
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_75
+  - first:
+      213: 4974439498220610316
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_76
+  - first:
+      213: 8147347274270269309
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_77
+  - first:
+      213: -9053398320998654066
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_78
+  - first:
+      213: 5202884820893388674
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_79
+  - first:
+      213: -2465362320043892532
+    second: o1
+  - first:
+      213: -15040876193676390
+    second: 02
+  - first:
+      213: -6857915563477444069
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_82
+  - first:
+      213: -4405506495017423093
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_83
+  - first:
+      213: 8327177931955615952
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_84
+  - first:
+      213: -3658142782448593967
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_85
+  - first:
+      213: -4436853039778629352
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_86
+  - first:
+      213: -6951274440501637184
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_87
+  - first:
+      213: 8569370473934351521
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_88
+  - first:
+      213: 1034716903093654451
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_89
+  - first:
+      213: 4078525657492498438
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_90
+  - first:
+      213: 4619746006854519678
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_91
+  - first:
+      213: 2235112109471976704
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_92
+  - first:
+      213: 1774335980128813138
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_93
+  - first:
+      213: 3835704444764061096
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_94
+  - first:
+      213: -473415965744607108
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_95
+  - first:
+      213: 6707863585254599654
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_96
+  - first:
+      213: 2371146468859904524
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_97
+  - first:
+      213: -7346166654110720307
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_98
+  - first:
+      213: -4348752450851699947
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_99
+  - first:
+      213: -7445453690561590033
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_100
+  - first:
+      213: 4268071386553394233
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_101
+  - first:
+      213: 336097685787367749
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_102
+  - first:
+      213: -2867444117102729403
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_103
+  - first:
+      213: -7581263418457091339
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_104
+  - first:
+      213: 6773224932916526577
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_105
+  - first:
+      213: 5744715265263404254
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_106
+  - first:
+      213: 8214892994769252684
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_107
+  - first:
+      213: -7805799245514433422
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_108
+  - first:
+      213: -6019853223681261711
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_109
+  - first:
+      213: -9208885209301101988
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_110
+  - first:
+      213: -5776725656016076793
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_111
+  - first:
+      213: -5563656134128801304
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_112
+  - first:
+      213: 7738850782796958350
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_113
+  - first:
+      213: -5402129844057403568
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_114
+  - first:
+      213: 2791268369374862729
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_115
+  - first:
+      213: -1126248384273973891
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_116
+  - first:
+      213: 3493903443674987829
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_117
+  - first:
+      213: -9033038176998968850
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_118
+  - first:
+      213: -5070565607148650695
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_119
+  - first:
+      213: 6744114937851833092
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_120
+  - first:
+      213: -5217427360739913778
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_121
+  - first:
+      213: -6881131632551584401
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_122
+  - first:
+      213: 6328517338362417636
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_123
+  - first:
+      213: 7194842668578836893
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_124
+  - first:
+      213: 2098158038522589705
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_125
+  - first:
+      213: 4479946928799181147
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_126
+  - first:
+      213: -5382344807452093808
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_127
+  - first:
+      213: -8585556061572940185
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_128
+  - first:
+      213: 7383752409673325578
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_129
+  - first:
+      213: -1798107291736038997
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_130
+  - first:
+      213: 4566803270022071626
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_131
+  - first:
+      213: 9221833292641202195
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_132
+  - first:
+      213: -7771176489419848770
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_133
+  - first:
+      213: -3927224430771503703
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_134
+  - first:
+      213: -4349785487529959415
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_135
+  - first:
+      213: -6874272901987256071
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_136
+  - first:
+      213: 9005288229656204171
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_137
+  - first:
+      213: -4108971197009911344
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_138
+  - first:
+      213: -8967372487264804521
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_139
+  - first:
+      213: -52923040003150276
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_140
+  - first:
+      213: 3169321474870002376
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_141
+  - first:
+      213: 6484906284017139650
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_142
+  - first:
+      213: 8707177500173514467
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_143
+  - first:
+      213: 7130520915739307827
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_144
+  - first:
+      213: -6329436516863746946
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_145
+  - first:
+      213: 5913858046563244271
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_146
+  - first:
+      213: 6454318363281431904
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_147
+  - first:
+      213: 7785763382643639922
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_148
+  - first:
+      213: 129875057815115875
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_149
+  - first:
+      213: -3558962872303322645
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_150
+  - first:
+      213: 2427358780062720889
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_151
+  - first:
+      213: 6534411806022659443
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_152
+  - first:
+      213: -8524243893560527614
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_153
+  - first:
+      213: 193706427638100382
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_154
+  - first:
+      213: 5556127618696061209
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_155
+  - first:
+      213: 3950407851545139477
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_156
+  - first:
+      213: -1492733332574015635
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_157
+  - first:
+      213: -3783683275097366457
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_158
+  - first:
+      213: -6442058409116143628
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_159
+  - first:
+      213: -20240091605501902
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_160
+  - first:
+      213: 4660444109107235634
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_161
+  - first:
+      213: 8631166095972414145
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_162
+  - first:
+      213: -3331044584243106785
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_163
+  - first:
+      213: 3293118706001359748
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_164
+  - first:
+      213: 3433574879546103575
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_165
+  - first:
+      213: 6732833905647372014
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_166
+  - first:
+      213: -7414477872919105165
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_167
+  - first:
+      213: -126365164426364862
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_168
+  - first:
+      213: -6140298707660370601
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_169
+  - first:
+      213: 8735151295634806295
+    second: PC Computer - Heroes of Might and Magic 3 - Wood Elf_2
+  - first:
+      213: 3434979461025748536
+    second: idle1
+  - first:
+      213: 239029754284662656
+    second: idle2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 8, y: 1297, z: 816, w: 3}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1299
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb0dde613cc6bc0800000000000000
+      internalID: -3788438683278852290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1299
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcca1d70d6efe1390800000000000000
+      internalID: -7845553756596753201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle5
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1299
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39c50de782a4dd0800000000000000
+      internalID: -2501142117924170759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle6
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1301
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b98507dc5699b0800000000000000
+      internalID: -5073765851605650705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle7
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1299
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232c5679cd9e852a0800000000000000
+      internalID: -6748386907972582862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle8
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1298
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecc937ccda7d7a0800000000000000
+      internalID: -6352417655758205438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1183
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8ed6bbed680500800000000000000
+      internalID: 362660629156105968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1184
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14084efc84691920800000000000000
+      internalID: 2961508786697143324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1184
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555259e4acd75c9b0800000000000000
+      internalID: -5060500298425621163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1185
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b663dc2e5f2400800000000000000
+      internalID: 301563246675409280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1185
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e5a52614f34d40800000000000000
+      internalID: 5567561940318152535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_13
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1182
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe0bcbbbd1c01c20800000000000000
+      internalID: 3175250886788845308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1181
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468db3f6781f9ed0800000000000000
+      internalID: -2405176776818063801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_15
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1180
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6235095b9cd800d0800000000000000
+      internalID: -3456270154235301267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1063
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117e7363373b4850800000000000000
+      internalID: 6362239592443048210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1063
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d6aacf12b48f00800000000000000
+      internalID: 1118214457108387168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1064
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73c67ca06718a3b0800000000000000
+      internalID: -5501121240855297153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1064
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71de5c8933e7ddc0800000000000000
+      internalID: -3614170339633868422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_28
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1062
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d07fa9f924ab8f0800000000000000
+      internalID: -524033153368126103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 927
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2cd55ec9d64cb30800000000000000
+      internalID: 4306687664303489739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 927
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b00d81f68ffaec0800000000000000
+      internalID: -3553348424930686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 927
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b62efd28471470800000000000000
+      internalID: 8365234195238664634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 927
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82659a5200a0070800000000000000
+      internalID: 8073265443769821387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 923
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5c2a5920c68260800000000000000
+      internalID: 7099573146435213875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att6
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 927
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04eefb56d4a4550800000000000000
+      internalID: 6145809740907561130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 927
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de78eca97839750800000000000000
+      internalID: 6310536601835924874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: att8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 926
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ddcc4e44fbee70800000000000000
+      internalID: 9145672085439107417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: o1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 791
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a62f280649cdd0800000000000000
+      internalID: -2465362320043892532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 787
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938d5d17609acff0800000000000000
+      internalID: -15040876193676390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_82
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 791
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1add4b312ac3d0a0800000000000000
+      internalID: -6857915563477444069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_83
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 791
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6fc42f2f7cd2c0800000000000000
+      internalID: -4405506495017423093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_84
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 790
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8bfa7b534109370800000000000000
+      internalID: 8327177931955615952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 659
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31e72658aab3dc0800000000000000
+      internalID: -3658142782448593967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_86
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 660
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f163faa12d62c0800000000000000
+      internalID: -4436853039778629352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_87
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 659
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc5adc9bc188f90800000000000000
+      internalID: -6951274440501637184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_88
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 659
+        width: 41
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace3972b058ce670800000000000000
+      internalID: 8569370473934351521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_89
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 658
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b35dfb8a8d0c5e00800000000000000
+      internalID: 1034716903093654451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_90
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 519
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608282ef975d99830800000000000000
+      internalID: 4078525657492498438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_91
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 519
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc71b4482ac1040800000000000000
+      internalID: 4619746006854519678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_92
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 519
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d40461f96b40f10800000000000000
+      internalID: 2235112109471976704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_93
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 519
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c5cf4c25bf9810800000000000000
+      internalID: 1774335980128813138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_94
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 517
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad7c8dbed82b3530800000000000000
+      internalID: 3835704444764061096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_95
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 517
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705bcaffa61e69f0800000000000000
+      internalID: -473415965744607108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 519
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebe0e8146e171d50800000000000000
+      internalID: 6707863585254599654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_97
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 519
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0201da862108e020800000000000000
+      internalID: 2371146468859904524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 419
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce19e8895c2d0a90800000000000000
+      internalID: -7346166654110720307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 419
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51300e6cfa026a3c0800000000000000
+      internalID: -4348752450851699947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_100
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 419
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec847ee05f6ca890800000000000000
+      internalID: -7445453690561590033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_101
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 419
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342687105c3b3b30800000000000000
+      internalID: 4268071386553394233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_102
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 419
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549df23801f0aa400800000000000000
+      internalID: 336097685787367749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_103
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 387
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547eec294cac438d0800000000000000
+      internalID: -2867444117102729403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_104
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 387
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f293329611f9c690800000000000000
+      internalID: -7581263418457091339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 386
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdfe4eb0345ffd50800000000000000
+      internalID: 6773224932916526577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_106
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 386
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40ac1d81459bf40800000000000000
+      internalID: 5744715265263404254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_107
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 387
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f01587a9210270800000000000000
+      internalID: 8214892994769252684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_116
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 251
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dfd76cf03ce50f0800000000000000
+      internalID: -1126248384273973891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_117
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 251
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53df2c7aba6dc7030800000000000000
+      internalID: 3493903443674987829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_118
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 246
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee13f6913a334a280800000000000000
+      internalID: -9033038176998968850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_119
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 251
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f779ff17bb1a9b0800000000000000
+      internalID: -5070565607148650695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_125
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 249
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f4c89e972e1d10800000000000000
+      internalID: 2098158038522589705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_154
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 135
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91341a38fe20b200800000000000000
+      internalID: 193706427638100382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_155
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 135
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ad1fa1a45b1d40800000000000000
+      internalID: 5556127618696061209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_156
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 135
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191345c20ba2d630800000000000000
+      internalID: 3950407851545139477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_157
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 135
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6a8f51feb84be0800000000000000
+      internalID: -1492733332574015635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_158
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 135
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402c3dab18ad7bc0800000000000000
+      internalID: -3783683275097366457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_159
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 135
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff605622063996a0800000000000000
+      internalID: -6442058409116143628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_160
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 136
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f1a17eb718bff0800000000000000
+      internalID: -20240091605501902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_161
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 137
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b06e2a9393da040800000000000000
+      internalID: 4660444109107235634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_162
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 6
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b4db95df08c770800000000000000
+      internalID: 8631166095972414145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 13
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c63396990c5c1d0800000000000000
+      internalID: -3331044584243106785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b762f30283bd20800000000000000
+      internalID: 3293118706001359748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_165
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717dc0d392286af20800000000000000
+      internalID: 3433574879546103575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_166
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 9
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee641ddd3c4df6d50800000000000000
+      internalID: 6732833905647372014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_167
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 8
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b9ad78ab7a1990800000000000000
+      internalID: -7414477872919105165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_168
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 9
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248f16e6d8f0f3ef0800000000000000
+      internalID: -126365164426364862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Wood Elf_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1299
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d339de9f7baf20800000000000000
+      internalID: 3434979461025748536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1293
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fd2ea8b44315300800000000000000
+      internalID: 239029754284662656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
