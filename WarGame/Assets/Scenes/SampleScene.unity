@@ -159,10 +159,8 @@ MonoBehaviour:
   tmpSize: {x: 120, y: 70, z: 0}
   topMap: {fileID: 1574991635}
   botMap: {fileID: 1395856350}
-  topTile: {fileID: 11400000, guid: 4d8db3a06db08cb40ab8a97649118491, type: 2}
   botTile: {fileID: 11400000, guid: 0735be7c7c0d3a149bd683ad6477c8a7, type: 2}
-  topSprite: {fileID: 21300000, guid: 2247376eff15efe4c95659c6a1de94a1, type: 3}
-  botSprite: {fileID: 21300000, guid: 5c0cdb487d3cc3a4f97ffa0d941b50e9, type: 3}
+  treeIniChance: 20
 --- !u!4 &283282845
 Transform:
   m_ObjectHideFlags: 0
