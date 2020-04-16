@@ -2,20 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Unit : MonoBehaviour
+public abstract class Unit : MonoBehaviour
 {
+
+    protected double damage;
+    protected double health;
+
+    public double Damage { get => damage; set => damage = value; }
+    public double Health { get => health; set => health = value; }
+
+    public abstract void Attack(GameObject target);
     
-    public double damage;
-    public double health;
-
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
