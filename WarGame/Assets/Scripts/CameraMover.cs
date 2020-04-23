@@ -9,8 +9,10 @@ public class CameraMover : MonoBehaviour {
     float inputZ;
 	// Use this for initialization
 	void Start () {
-		
-	}
+        Transform pl;
+        pl = GameObject.Find("PlayerParent").transform;
+        transform.position = new Vector3(pl.position.x, pl.position.y, -10);
+    }
 	
 	// Update is called once per frame
 	void Update () {
