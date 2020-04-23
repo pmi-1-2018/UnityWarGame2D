@@ -666,6 +666,12 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7948916885972071528, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+        type: 3}
+      propertyPath: hydraPrefab
+      value: 
+      objectReference: {fileID: 2860986671276417047, guid: 7a90302669b51e3419a3fddd7441d49b,
+        type: 3}
     m_RemovedComponents:
     - {fileID: 7948916885972071529, guid: 36488f24ce4cdd84c9d71b1bb04d26cf, type: 3}
     - {fileID: 7948916885972071531, guid: 36488f24ce4cdd84c9d71b1bb04d26cf, type: 3}
@@ -1365,6 +1371,12 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3502048563292840631, guid: 0f7bffa0630cd49468d0db23c49a5776,
+        type: 3}
+      propertyPath: hydraPrefab
+      value: 
+      objectReference: {fileID: 2860986671276417047, guid: 7a90302669b51e3419a3fddd7441d49b,
+        type: 3}
     - target: {fileID: 3502048563292840633, guid: 0f7bffa0630cd49468d0db23c49a5776,
         type: 3}
       propertyPath: m_LocalPosition.x

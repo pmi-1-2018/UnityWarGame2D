@@ -8,6 +8,7 @@ public class Army : MonoBehaviour
     private List<GameObject> army = new List<GameObject>();
     public GameObject pepega;
     public GameObject archerPrefab;
+    public GameObject hydraPrefab;
     public GameObject PoorMansShieldPrefab;
     public GameObject HeroSwordPrefab;
 
@@ -31,6 +32,11 @@ public class Army : MonoBehaviour
         {
             army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * 5, 0, 0), Quaternion.identity, gameObject.transform));
             army[5].GetComponent<SpriteRenderer>().enabled = false;
+        }
+        if (gameObject.name == "pidar")
+        {
+            army[0] = (Instantiate(hydraPrefab, new Vector3(-25 + 4 * 0, 0, 0), Quaternion.identity, gameObject.transform));
+            army[0].GetComponent<SpriteRenderer>().enabled = false;
         }
         if (gameObject.name == "PlayerParent")
         {

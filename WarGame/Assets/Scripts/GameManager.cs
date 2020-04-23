@@ -66,20 +66,20 @@ public class GameManager : MonoBehaviour
             if (turn % 2 == 0)
             {
                 Archer.ManageArchersRangedAttack(attackingArmy, defendingArmy);
-                attackingArmy[0].GetComponentInChildren<Unit>().Attack(defendingArmy[0]);
+                attackingArmy[0].GetComponentInChildren<Unit>().Attack(defendingArmy, 0);
             }
             else
             {
                 Archer.ManageArchersRangedAttack(defendingArmy, attackingArmy);
-                defendingArmy[0].GetComponentInChildren<Unit>().Attack(attackingArmy[0]);
+                defendingArmy[0].GetComponentInChildren<Unit>().Attack(attackingArmy, 0);
             }
             turn++;
-            if (defendingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
+            while (defendingArmy.Count > 0 && defendingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
             {
                 GameObject.Destroy(defendingArmy[0]);
                 defendingArmy.RemoveAt(0);
             }
-            if (attackingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
+            while (attackingArmy.Count > 0 && attackingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
             {
                 GameObject.Destroy(attackingArmy[0]);
                 attackingArmy.RemoveAt(0);

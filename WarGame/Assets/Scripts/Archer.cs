@@ -4,17 +4,18 @@ using UnityEngine;
 
 public class Archer : Unit
 {
-    private double rangedDamage = 100;
+    private double rangedDamage;
 
     void Start()
     {
+        rangedDamage = 100;
         health = 50;
         damage = 25;
     }
 
-    public override void Attack(GameObject target)
+    public override void Attack(List<GameObject> targetArmy, int targetIndex)
     {
-        target.GetComponentInChildren<Unit>().Health -= damage;
+        targetArmy[targetIndex].GetComponentInChildren<Unit>().Health -= damage;
     }
 
     private void AttackRanged(GameObject target)

@@ -1,0 +1,2287 @@
+fileFormatVersion: 2
+guid: 00d5ed7941230494c91eb23bf4940bd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4013757249359953167
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_0
+  - first:
+      213: 5070186376014435974
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_1
+  - first:
+      213: -5464922523801462133
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_2
+  - first:
+      213: 6070644679526633785
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_3
+  - first:
+      213: -2744679512251587561
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_4
+  - first:
+      213: 8316898812811775776
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_5
+  - first:
+      213: 8378242940003754453
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_6
+  - first:
+      213: -6827235972297965887
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_7
+  - first:
+      213: 4162378412187040156
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_8
+  - first:
+      213: -8593409830066288101
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_9
+  - first:
+      213: 2120158057532678611
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_10
+  - first:
+      213: -6687567836663697164
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_11
+  - first:
+      213: 8354760669120767075
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_12
+  - first:
+      213: -7596603136788669340
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_13
+  - first:
+      213: -5792422807229858936
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_14
+  - first:
+      213: 4336541651968443077
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_15
+  - first:
+      213: -8484368034434658294
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_16
+  - first:
+      213: -2496919105316825602
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_17
+  - first:
+      213: -6103841210131829171
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_18
+  - first:
+      213: 2819574020107402118
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_19
+  - first:
+      213: -2058061263081983795
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_20
+  - first:
+      213: -1822443884269567256
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_21
+  - first:
+      213: 7491147913527718653
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_22
+  - first:
+      213: 3513951560711320666
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_23
+  - first:
+      213: 3862189111142628101
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_24
+  - first:
+      213: 7553317496702023815
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_25
+  - first:
+      213: 4596358746724896514
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_26
+  - first:
+      213: -7060578600463939360
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_27
+  - first:
+      213: 3762752772769644278
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_28
+  - first:
+      213: -3427915194249596782
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_29
+  - first:
+      213: -5283838146966310657
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_30
+  - first:
+      213: 6012613852927738110
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_31
+  - first:
+      213: -2697917081762443369
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_32
+  - first:
+      213: -5050713827803707244
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_33
+  - first:
+      213: 615520921591954963
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_34
+  - first:
+      213: 4973957362614564635
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_35
+  - first:
+      213: 2205292742401016124
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_36
+  - first:
+      213: -2172679271238511251
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_37
+  - first:
+      213: 3515816139901664067
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_38
+  - first:
+      213: -8731844455139745780
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_39
+  - first:
+      213: 3891399870283100351
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_40
+  - first:
+      213: -5048134474246453840
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_41
+  - first:
+      213: -3152371130844345644
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_42
+  - first:
+      213: -4163314852664216892
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_43
+  - first:
+      213: -3625376822680503380
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_44
+  - first:
+      213: -1536832687056192621
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_45
+  - first:
+      213: -8850591061047293218
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_46
+  - first:
+      213: -4104817779149263818
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_47
+  - first:
+      213: -332289050214640095
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_48
+  - first:
+      213: 7247697309905892415
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_49
+  - first:
+      213: 6293484580144055502
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_50
+  - first:
+      213: 3856182579554876951
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_51
+  - first:
+      213: -565189640221704880
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_52
+  - first:
+      213: 4621316193192705648
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_53
+  - first:
+      213: -8587307383663975291
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_54
+  - first:
+      213: -1706494103483005140
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_55
+  - first:
+      213: 7560966870012241259
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_56
+  - first:
+      213: 1384947496261622513
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_57
+  - first:
+      213: 1434859266294960010
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_58
+  - first:
+      213: -2134754414831377040
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_59
+  - first:
+      213: -4295210603140963704
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_60
+  - first:
+      213: 3903359130408339459
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_61
+  - first:
+      213: -5570012762011778981
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_62
+  - first:
+      213: 8927889427985515421
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_63
+  - first:
+      213: -4360322245668820678
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_64
+  - first:
+      213: 2147008344661176076
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_65
+  - first:
+      213: 8490988746729248422
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_66
+  - first:
+      213: 9151654126814246830
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_67
+  - first:
+      213: 1017977305550238758
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_68
+  - first:
+      213: 2360386445076782928
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_69
+  - first:
+      213: -8549737158451555855
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_70
+  - first:
+      213: 8227653492733485397
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_71
+  - first:
+      213: -703792148885295109
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_72
+  - first:
+      213: -1332913134741978833
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_73
+  - first:
+      213: 4568480955282645273
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_74
+  - first:
+      213: -6035828334750254855
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_75
+  - first:
+      213: 4007253012668818742
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_76
+  - first:
+      213: 7328875427049535833
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_77
+  - first:
+      213: 1229487328116402046
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_78
+  - first:
+      213: 5789453205138861257
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_79
+  - first:
+      213: -6293927560927930226
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_80
+  - first:
+      213: 3493138524069244278
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_81
+  - first:
+      213: 5980285130657063813
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_82
+  - first:
+      213: -8258463967150756674
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_83
+  - first:
+      213: -8014430856618062169
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_84
+  - first:
+      213: 1428234368376830886
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_85
+  - first:
+      213: 8930156042527052442
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_86
+  - first:
+      213: -352896688590617554
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_87
+  - first:
+      213: 6075934647155785706
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_88
+  - first:
+      213: -2544623348758232471
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_89
+  - first:
+      213: 1844381366942971965
+    second: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_90
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 528
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbfb6d3fab3b730800000000000000
+      internalID: 4013757249359953167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 528
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869d5f55abec5640800000000000000
+      internalID: 5070186376014435974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 528
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a58c34be1b824b0800000000000000
+      internalID: -5464922523801462133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 528
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931dcc02c234f3450800000000000000
+      internalID: 6070644679526633785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 528
+        width: 89
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a3f98680f8e9d0800000000000000
+      internalID: -2744679512251587561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 527
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f838ac76f8b6370800000000000000
+      internalID: 8316898812811775776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 527
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d129d8609f754470800000000000000
+      internalID: 8378242940003754453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 528
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce39613e09c041a0800000000000000
+      internalID: -6827235972297965887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 528
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b927dc1db3c930800000000000000
+      internalID: 4162378412187040156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_9
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 528
+        width: 91
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8c851a431eb880800000000000000
+      internalID: -8593409830066288101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_10
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 528
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1eaee25805c6d10800000000000000
+      internalID: 2120158057532678611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 526
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0355c1c7cf033a0800000000000000
+      internalID: -6687567836663697164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_12
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 527
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364295a209212f370800000000000000
+      internalID: 8354760669120767075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_13
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 522
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd71412b1739690800000000000000
+      internalID: -7596603136788669340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_14
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 521
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b713a752e2d9fa0800000000000000
+      internalID: -5792422807229858936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_15
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 521
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c34f08ad7e2c30800000000000000
+      internalID: 4336541651968443077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_16
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 521
+        width: 83
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d7db8938714a80800000000000000
+      internalID: -8484368034434658294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 355
+        width: 95
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef554be8d49295dd0800000000000000
+      internalID: -2496919105316825602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 355
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea3b842ccca4ba0800000000000000
+      internalID: -6103841210131829171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 355
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bfb6ee1a3212720800000000000000
+      internalID: 2819574020107402118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 355
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b1007f2c4073e0800000000000000
+      internalID: -2058061263081983795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 355
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2870761f065b6e0800000000000000
+      internalID: -1822443884269567256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 355
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27ab96657e5f760800000000000000
+      internalID: 7491147913527718653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 339
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54b026a35014c030800000000000000
+      internalID: 3513951560711320666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 344
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bb909a880499530800000000000000
+      internalID: 3862189111142628101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_25
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 344
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788baaa7e36c2d860800000000000000
+      internalID: 7553317496702023815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_26
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 343
+        width: 146
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0cc67deb89cf30800000000000000
+      internalID: 4596358746724896514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_27
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 345
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84f92eb29c30e90800000000000000
+      internalID: -7060578600463939360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_28
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 350
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fefc8ef5bbf73430800000000000000
+      internalID: 3762752772769644278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_29
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 354
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b69eea499d60d0800000000000000
+      internalID: -3427915194249596782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_30
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 354
+        width: 126
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03a6743390ca6b0800000000000000
+      internalID: -5283838146966310657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_31
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 354
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0c95b6178117350800000000000000
+      internalID: 6012613852927738110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_32
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 354
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f471455b21f8ad0800000000000000
+      internalID: -2697917081762443369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_33
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 355
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4984b9f888248e9b0800000000000000
+      internalID: -5050713827803707244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_34
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 179
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e3f4b5405ca8800800000000000000
+      internalID: 615520921591954963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17749e3edb070540800000000000000
+      internalID: 4973957362614564635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314f88a016ca9e10800000000000000
+      internalID: 2205292742401016124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 179
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6559f2d6b719d1e0800000000000000
+      internalID: -2172679271238511251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_38
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 181
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7c62d620bac030800000000000000
+      internalID: 3515816139901664067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_39
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 180
+        width: 120
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006e693bb142d680800000000000000
+      internalID: -8731844455139745780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_40
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 181
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b9338097010630800000000000000
+      internalID: 3891399870283100351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_41
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 179
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5032c117c61f9b0800000000000000
+      internalID: -5048134474246453840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 181
+        width: 143
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da83d198278044d0800000000000000
+      internalID: -3152371130844345644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_43
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 179
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c277de133fe836c0800000000000000
+      internalID: -4163314852664216892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_44
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 180
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb133ecf210bdc0800000000000000
+      internalID: -3625376822680503380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_45
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 274
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7ec840d21caae0800000000000000
+      internalID: -1536832687056192621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_46
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 274
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda470a82526c2580800000000000000
+      internalID: -8850591061047293218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_47
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 274
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca9166af1c807c0800000000000000
+      internalID: -4104817779149263818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_48
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 274
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126543f8ed8736bf0800000000000000
+      internalID: -332289050214640095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_49
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 274
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34be7cad4ef49460800000000000000
+      internalID: 7247697309905892415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_50
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 274
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec482ee91e2f65750800000000000000
+      internalID: 6293484580144055502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_51
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 274
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71efa6b00a9e38530800000000000000
+      internalID: 3856182579554876951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_52
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 188
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbad7440b0828f0800000000000000
+      internalID: -565189640221704880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_53
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 227
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef20ac796322040800000000000000
+      internalID: 4621316193192705648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_54
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 225
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584ae9b9e61c3d880800000000000000
+      internalID: -8587307383663975291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_55
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 222
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27c89e77a05158e0800000000000000
+      internalID: -1706494103483005140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_56
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 207
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a39dfe43fde860800000000000000
+      internalID: 7560966870012241259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_57
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 207
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa9d3bf862583310800000000000000
+      internalID: 1384947496261622513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_58
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f403686e4a9e310800000000000000
+      internalID: 1434859266294960010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_59
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 204
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075674d8b24df52e0800000000000000
+      internalID: -2134754414831377040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_60
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 207
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882aa44a6b85464c0800000000000000
+      internalID: -4295210603140963704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_61
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 204
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30844ceb2748b2630800000000000000
+      internalID: 3903359130408339459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_62
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 207
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5045e577e653b2b0800000000000000
+      internalID: -5570012762011778981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_63
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 207
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ca0df12c36eb70800000000000000
+      internalID: 8927889427985515421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_64
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 189
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392da005060d73c0800000000000000
+      internalID: -4360322245668820678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_65
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 187
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2451d6b4bbcd10800000000000000
+      internalID: 2147008344661176076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_66
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 186
+        width: 93
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d2a8274d06d570800000000000000
+      internalID: 8490988746729248422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_67
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 189
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea73008d0f4310f70800000000000000
+      internalID: 9151654126814246830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_68
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 189
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6243bb647f4902e00800000000000000
+      internalID: 1017977305550238758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd27747f6c1c020800000000000000
+      internalID: 2360386445076782928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_70
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 102
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f199835a5b395980800000000000000
+      internalID: -8549737158451555855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_71
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a169724f7e2270800000000000000
+      internalID: 8227653492733485397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffabf9f4c0ab36f0800000000000000
+      internalID: -703792148885295109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_73
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 14
+        width: 97
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f218047e09a808de0800000000000000
+      internalID: -1332913134741978833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_74
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 14
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91162c65931866f30800000000000000
+      internalID: 4568480955282645273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_75
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 14
+        width: 115
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f839f5db1e6c3ca0800000000000000
+      internalID: -6035828334750254855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_76
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 13
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352d39326f9c9730800000000000000
+      internalID: 4007253012668818742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_77
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 14
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9597060fe5565b560800000000000000
+      internalID: 7328875427049535833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_78
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 18
+        width: 131
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77e838f534001110800000000000000
+      internalID: 1229487328116402046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_79
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 20
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6c082405485050800000000000000
+      internalID: 5789453205138861257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_80
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 22
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8899d0ea3a77a8a0800000000000000
+      internalID: -6293927560927930226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_81
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 24
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d216eeafe1a7030800000000000000
+      internalID: 3493138524069244278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_82
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 66
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836d5434ad3ef250800000000000000
+      internalID: 5980285130657063813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_83
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcad9fe6ca046d80800000000000000
+      internalID: -8258463967150756674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_84
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 9
+        width: 87
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec952299507c090800000000000000
+      internalID: -8014430856618062169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_85
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 48
+        width: 126
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfa17479b12d310800000000000000
+      internalID: 1428234368376830886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_86
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 36
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9212af4b994eeb70800000000000000
+      internalID: 8930156042527052442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_87
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 32
+        width: 118
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24052ad4524a1bf0800000000000000
+      internalID: -352896688590617554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_88
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 17
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7532be5e025450800000000000000
+      internalID: 6075934647155785706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_89
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 16
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c91adb8eafacd0800000000000000
+      internalID: -2544623348758232471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Chaos Hydra_90
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 20
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d383cfec41f889910800000000000000
+      internalID: 1844381366942971965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
