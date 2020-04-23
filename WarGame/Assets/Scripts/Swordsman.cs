@@ -7,7 +7,7 @@ public class Swordsman : Unit
     
     void Start()
     {
-        health = 50;
+        health = 100;
         damage = 50;
     }
 
