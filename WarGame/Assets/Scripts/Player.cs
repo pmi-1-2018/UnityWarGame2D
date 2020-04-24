@@ -121,15 +121,15 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
-        if (itemWorld.tag == "Item")
-        {
+        //if (collision.gameObject.tag == "Item")
+        //{
+            ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
             if (itemWorld != null)
             {
                 inventory.AddItem(itemWorld.GetItem());
                 itemWorld.DestroySelf();
             }
-        }
+        //}
     }
 
     void Move()

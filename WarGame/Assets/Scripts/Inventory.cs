@@ -58,26 +58,27 @@ public class Inventory : MonoBehaviour
                 itemList.Add(item);
             }
         }
-        else //to add only one item and ignore another
+        else //to add all items
         {
-            bool itemAlreadyInInventory2 = false;
-
-            foreach (Item inventoryItem in itemList)
-            {
-                if (inventoryItem.itemType == item.itemType)
-                {
-                    itemAlreadyInInventory2 = true;
-                }
-            }
-            if (!itemAlreadyInInventory2)
-            {
-                itemList.Add(item);
-            }
+            itemList.Add(item);
         }
-        //else //to add all items
+        //else //to add only one item and ignore another
         //{
-        //    itemList.Add(item);
+        //    bool itemAlreadyInInventory2 = false;
+
+        //    foreach (Item inventoryItem in itemList)
+        //    {
+        //        if (inventoryItem.itemType == item.itemType)
+        //        {
+        //            itemAlreadyInInventory2 = true;
+        //        }
+        //    }
+        //    if (!itemAlreadyInInventory2)
+        //    {
+        //        itemList.Add(item);
+        //    }
         //}
+
         OnItemListChanged?.Invoke(this, EventArgs.Empty);
     }
 
