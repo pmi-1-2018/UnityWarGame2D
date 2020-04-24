@@ -4,10 +4,10 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
 
-    /*
-     * Button in the UI
-     * */
-    public class Button_UI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler, IPointerDownHandler, IPointerUpHandler
+/*
+ * Button in the UI
+ * */
+public class Button_UI : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler, IPointerDownHandler, IPointerUpHandler
 {
 
     public Action ClickFunc = null;
@@ -198,7 +198,8 @@ using UnityEngine.EventSystems;
     {
         Action backFunc = fieldInfo.GetValue(this) as Action;
         InterceptActionHandler interceptActionHandler = new InterceptActionHandler(() => fieldInfo.SetValue(this, backFunc));
-        fieldInfo.SetValue(this, (Action)delegate () {
+        fieldInfo.SetValue(this, (Action)delegate ()
+        {
             if (testPassthroughFunc())
             {
                 // Passthrough

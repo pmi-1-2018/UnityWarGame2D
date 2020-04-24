@@ -11,11 +11,17 @@ public class Inventory : MonoBehaviour
     private Action<Item> useItemAction;
     public GameObject inv;
 
+
     private List<Item> itemList;
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "PlayerParent")
+        {
+            InventoryEnabled = !InventoryEnabled;
+        }
+
+        if (Input.GetKeyDown(KeyCode.O) && gameObject.name == "pidar")
         {
             InventoryEnabled = !InventoryEnabled;
         }
