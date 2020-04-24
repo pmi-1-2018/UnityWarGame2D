@@ -1,7 +1,9 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.Tilemaps;
 public class Player : MonoBehaviour
 {
+    [SerializeField] private UI_Inventory uiInventory;
+
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
     private Animator anim;
@@ -17,17 +19,56 @@ public class Player : MonoBehaviour
     private float progress;
     public Grid grid;
 
+    private Inventory inventory;
+
     private void Start()
     {
-        //stamina = 10;
+        stamina = 10;
         anim = GetComponent<Animator>();
         startPos = transform.position;
         endPos = transform.position;
+
+        inventory = new Inventory(UseItem);
+        uiInventory.SetInventory(inventory);
+
+        //ItemWorld.SpawnItemWorld(new Vector3(-150, -90), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+        //ItemWorld.SpawnItemWorld(new Vector3(-171, -110), new Item { itemType = Item.ItemType.Sword, amount = 1 });
+        //ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
     }
+
+    private void UseItem(Item item)
+    {
+        switch (item.itemType)
+        {
+            case Item.ItemType.HealthPotion:
+                Debug.Log("It's HEALTH POTION");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+                break;
+            case Item.ItemType.ManaPotion:
+                Debug.Log("It's MANA POTION");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1 });
+                break;
+            case Item.ItemType.Coin:
+                Debug.Log("It's COIN");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
+                break;
+            case Item.ItemType.Medkit:
+                Debug.Log("It's MEDKIT");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Medkit, amount = 1 });
+                break;
+            case Item.ItemType.Sword:
+                Debug.Log("It's SWORD");
+                inventory.RemoveItem(new Item { itemType = Item.ItemType.Sword, amount = 1 });
+                break;
+        }
+    }
+
+
     private void Update()
     {
         Move();
     }
+
     private Vector2 GetInput()
     {
         direction = Vector2.zero;
@@ -77,13 +118,26 @@ public class Player : MonoBehaviour
         return endPos;
        
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        //if (collision.gameObject.tag == "Item")
+        //{
+            ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
+            if (itemWorld != null)
+            {
+                inventory.AddItem(itemWorld.GetItem());
+                itemWorld.DestroySelf();
+            }
+        //}
+    }
+
     void Move()
     {
         endPos = GetInput();
         transform.position = Vector2.Lerp(startPos, endPos, progress);
         progress += step;
         Vector3Int cellPos = new Vector3Int((int)grid.WorldToCell(startPos).x,(int)grid.WorldToCell(startPos).y,0);
-
         if (progress != 1f)
         {
             anim.SetBool("isMoving", true);
