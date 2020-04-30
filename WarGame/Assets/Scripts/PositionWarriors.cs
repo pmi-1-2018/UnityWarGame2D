@@ -11,7 +11,7 @@ public class PositionWarriors : MonoBehaviour
         {
             try
             {
-                armyDefending[i].transform.position = new Vector3(10 + 4 * i, 0, 0);
+                armyDefending[i].transform.position = new Vector3(5 + 4 * i, 0, 0);
                 if (enableRendering)
                 {
                     armyDefending[i].GetComponent<SpriteRenderer>().enabled = true;
@@ -22,7 +22,7 @@ public class PositionWarriors : MonoBehaviour
             }
             try
             {
-                armyAttacking[i].transform.position = new Vector3(-10 - 4 * i, 0, 0);
+                armyAttacking[i].transform.position = new Vector3(-5 - 4 * i, 0, 0);
                 if (enableRendering)
                 {
                     armyAttacking[i].GetComponent<SpriteRenderer>().enabled = true;
