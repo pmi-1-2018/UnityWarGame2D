@@ -9,7 +9,11 @@ public class Battle : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D collision)
     {
         opponent = collision.gameObject;
-        GameObject manager = GameObject.Find("GameManager");
-        manager.GetComponent<GameManager>().BeginBattle(gameObject, opponent);
+        if (collision.gameObject.tag == "Player")
+        {
+            Debug.Log("Begin the BATTLE");
+            GameObject manager = GameObject.Find("GameManager");
+            manager.GetComponent<GameManager>().BeginBattle(gameObject, opponent);
+        }
     }
 }
