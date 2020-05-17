@@ -30,10 +30,6 @@ public class Player : MonoBehaviour
 
         inventory = new Inventory(UseItem);
         uiInventory.SetInventory(inventory);
-
-        //ItemWorld.SpawnItemWorld(new Vector3(-150, -90), new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
-        //ItemWorld.SpawnItemWorld(new Vector3(-171, -110), new Item { itemType = Item.ItemType.Sword, amount = 1 });
-        //ItemWorld.SpawnItemWorld(new Vector3(-171, -90), new Item { itemType = Item.ItemType.Medkit, amount = 1 });
     }
 
     private void UseItem(Item item)

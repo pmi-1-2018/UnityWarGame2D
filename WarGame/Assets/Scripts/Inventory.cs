@@ -2,28 +2,41 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class Inventory : MonoBehaviour
 {
     public event EventHandler OnItemListChanged;
+    private List<Item> itemList;
+    private Action<Item> useItemAction;
+
 
     private bool InventoryEnabled;
-    private Action<Item> useItemAction;
     public GameObject inv;
+    public Button TurnPass;
+    private bool a;
 
 
-    private List<Item> itemList;
-
+    void Start()
+    {
+        TurnPass.onClick.AddListener(NextTurn);
+    }
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "PlayerParent")
+        if (a == false)
         {
-            InventoryEnabled = !InventoryEnabled;
+            if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "PlayerParent")
+            {
+                InventoryEnabled = !InventoryEnabled;
+            }
         }
-
-        if (Input.GetKeyDown(KeyCode.O) && gameObject.name == "pidar")
+        else
         {
-            InventoryEnabled = !InventoryEnabled;
+            if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "pidar")
+            {
+                InventoryEnabled = !InventoryEnabled;
+            }
         }
 
         if (InventoryEnabled == true)
@@ -34,6 +47,12 @@ public class Inventory : MonoBehaviour
         {
             inv.SetActive(false);
         }
+    }
+
+    public void NextTurn()
+    {
+        Debug.Log("CHANGED!");
+        a = !a;
     }
 
     public Inventory(Action<Item> useItemAction)
