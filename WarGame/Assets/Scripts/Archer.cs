@@ -6,6 +6,28 @@ public class Archer : Unit
 {
     private double rangedDamage;
 
+    private void Update()
+    {
+        Move(0.03f);
+    }
+
+    void Move(float step)
+    {
+        transform.position = Vector2.Lerp(startPos, newPos, progress);
+        progress += step;
+        if(transform.position.x == newPos.x && transform.position.y == newPos.y)
+        {
+            progress = 0f;
+            startPos = newPos;
+            GetComponent<Animator>().SetInteger("speed", 0);
+        }
+    }
+
+    void Flip()
+    {
+        GetComponent<SpriteRenderer>().flipX = GetComponent<SpriteRenderer>().flipX == true ? false : true;
+    }
+
     void Start()
     {
         rangedDamage = 100;

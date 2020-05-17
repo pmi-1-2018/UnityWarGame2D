@@ -85,7 +85,7 @@ public class GameManager : MonoBehaviour
                 attackingArmy.RemoveAt(0);
             }
             PositionWarriors.PositionUnits(attackingArmy, defendingArmy, false);
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(1f);
         }
         if (attackingArmy.Count == 0 && defendingArmy.Count == 0)
         {
