@@ -6,16 +6,16 @@ using UnityEngine.UI;
 public class TurnSystem : MonoBehaviour
 {
     public Button TurnPass;
-    private int turnCounter = 0;
+    private int turnCounter = 1;
     public GameObject player1;
     public GameObject player2;
     public CameraFollow cam;
 
-
     void Start()
     {
-        player2.GetComponent<Player>().stamina = 0;
+        player2.GetComponent<Player>().stamina = 10;
         TurnPass.onClick.AddListener(NextTurn);
+        NextTurn();
     }
     private void Update()
     {

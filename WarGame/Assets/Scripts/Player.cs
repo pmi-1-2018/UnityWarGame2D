@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        stamina = 10;
+        stamina = 0;
         anim = GetComponent<Animator>();
         startPos = transform.position;
         endPos = transform.position;
@@ -109,12 +109,21 @@ public class Player : MonoBehaviour
         TerrainTile targetTile = top.GetTile(cellPos) as TerrainTile;
         if (targetTile != null && targetTile.Obj != null)
         {
-            Debug.Log(cellPos);
-            Debug.Log("Cannot go further");
-            endPos.x -= direction.x;
-            endPos.y -= direction.y;
-            stamina += 1;
-        }
+            if (targetTile.Obj.IsTree)
+            {
+                Debug.Log("Hit the tree. Cannot go further");
+                endPos.x -= direction.x;
+                endPos.y -= direction.y;
+                stamina += 1;
+            } else if (targetTile.Obj.IsBuilding)
+            {
+                Debug.Log("Hit the building.");
+                // remove these lines to be able to step onto the building
+                endPos.x -= direction.x;
+                endPos.y -= direction.y;
+                stamina += 1;
+            }
+        } 
         return endPos;
        
     }
