@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        stamina = 10;
+        stamina = 0;
         anim = GetComponent<Animator>();
         startPos = transform.position;
         endPos = transform.position;
