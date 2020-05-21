@@ -11,9 +11,11 @@ public class Army : MonoBehaviour
     public GameObject hydraPrefab;
     public GameObject PoorMansShieldPrefab;
     public GameObject HeroSwordPrefab;
+    
 
     public List<GameObject> GetArmy { get => army; }
     public ArtifactsBag GetArtifacts { get => artifacts; }
+
 
     void Awake()
     {

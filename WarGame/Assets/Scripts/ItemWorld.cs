@@ -15,13 +15,10 @@ public class ItemWorld : MonoBehaviour
         return itemWorld;
     }
 
-    //public static ItemWorld DropItem(Item item)
-    //{
-    //}
-
     private Item item;
     private SpriteRenderer spriteRenderer;
     private TextMeshPro textMeshPro;
+    private int val;
 
     private void Awake()
     {
@@ -34,6 +31,7 @@ public class ItemWorld : MonoBehaviour
     {
         this.item = item;
         spriteRenderer.sprite = item.GetSprite();
+        val = item.GetValue();
 
         if(item.amount>1)
         {
