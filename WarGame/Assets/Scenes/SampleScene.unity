@@ -1435,7 +1435,8 @@ PrefabInstance:
     - target: {fileID: 3502048563292840634, guid: 0f7bffa0630cd49468d0db23c49a5776,
         type: 3}
       propertyPath: m_Name
-      value: pidar
+      value: PlayerParent2
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6303903696035585635, guid: 0f7bffa0630cd49468d0db23c49a5776, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0f7bffa0630cd49468d0db23c49a5776, type: 3}

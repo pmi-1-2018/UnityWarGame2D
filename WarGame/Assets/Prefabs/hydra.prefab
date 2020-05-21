@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 80488384502179246}
   - component: {fileID: 1748407997604992178}
   - component: {fileID: 2152715011078839717}
+  - component: {fileID: 3964230941764766075}
   m_Layer: 0
   m_Name: hydra
   m_TagString: Untagged
@@ -117,3 +118,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d4b5538679641f43af69ed0b693c2a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!95 &3964230941764766075
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2860986671276417047}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 34fb2d3c0c0b6cd4ca54309be92dbc1f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

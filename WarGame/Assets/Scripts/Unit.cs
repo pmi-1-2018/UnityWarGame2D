@@ -16,6 +16,18 @@ public abstract class Unit : MonoBehaviour
     public Vector2 StartPos { set => startPos = value; }
     public Vector2 NewPos { set => newPos = value; }
 
+    public void Move(float step)
+    {
+        transform.position = Vector2.Lerp(startPos, newPos, progress);
+        progress += step;
+        if (transform.position.x == newPos.x && transform.position.y == newPos.y)
+        {
+            progress = 0f;
+            startPos = newPos;
+            GetComponent<Animator>().SetInteger("speed", 0);
+        }
+    }
+
     public abstract void Attack(List<GameObject> targetArmy, int targetIndex);
     
 }

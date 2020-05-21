@@ -67,22 +67,27 @@ public class GameManager : MonoBehaviour
             {
                 Archer.ManageArchersRangedAttack(attackingArmy, defendingArmy);
                 attackingArmy[0].GetComponentInChildren<Unit>().Attack(defendingArmy, 0);
+                PositionWarriors.EnableAttackAnim(attackingArmy, defendingArmy, true);
             }
             else
             {
                 Archer.ManageArchersRangedAttack(defendingArmy, attackingArmy);
                 defendingArmy[0].GetComponentInChildren<Unit>().Attack(attackingArmy, 0);
+                PositionWarriors.EnableAttackAnim(attackingArmy, defendingArmy, false);
             }
+            yield return new WaitForSeconds(1f);
             turn++;
             while (defendingArmy.Count > 0 && defendingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
             {
                 GameObject.Destroy(defendingArmy[0]);
                 defendingArmy.RemoveAt(0);
+                PositionWarriors.DisableAttackAnim(attackingArmy);
             }
             while (attackingArmy.Count > 0 && attackingArmy[0].GetComponentInChildren<Unit>().Health <= 0)
             {
                 GameObject.Destroy(attackingArmy[0]);
                 attackingArmy.RemoveAt(0);
+                PositionWarriors.DisableAttackAnim(defendingArmy);
             }
             PositionWarriors.PositionUnits(attackingArmy, defendingArmy, false);
             yield return new WaitForSeconds(1f);
@@ -130,6 +135,7 @@ public class GameManager : MonoBehaviour
             foreach (var unit in attackingPlayer.GetComponent<Army>().GetArmy)
             {
                 unit.GetComponent<SpriteRenderer>().enabled = false;
+                unit.GetComponent<Animator>().enabled = false;
             }
         }
         if (opponent != null)
@@ -137,6 +143,7 @@ public class GameManager : MonoBehaviour
             foreach (var unit in opponent.GetComponent<Army>().GetArmy)
             {
                 unit.GetComponent<SpriteRenderer>().enabled = false;
+                unit.GetComponent<Animator>().enabled = false;
             }
         }
         mainCameraRef.SetActive(true);

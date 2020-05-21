@@ -5,6 +5,11 @@ using UnityEngine;
 public class Hydra : Unit
 {
     // Start is called before the first frame update
+    private void Update()
+    {
+        Move(0.03f);
+    }
+
     void Start()
     {
         health = 200;

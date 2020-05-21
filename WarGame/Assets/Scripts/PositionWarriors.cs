@@ -59,4 +59,21 @@ public class PositionWarriors : MonoBehaviour
             }
         }
     }
+    public static void EnableAttackAnim(List<GameObject> armyAttacking, List<GameObject> armyDefending, bool even)
+    {
+        if(even)
+        {
+            armyAttacking[0].GetComponent<Animator>().SetInteger("attack", 1);
+            armyDefending[0].GetComponent<Animator>().SetInteger("attack", -1);
+        }
+        else
+        {
+            armyAttacking[0].GetComponent<Animator>().SetInteger("attack", -1);
+            armyDefending[0].GetComponent<Animator>().SetInteger("attack", 1);
+        }
+    }
+    public static void DisableAttackAnim(List<GameObject> army)
+    {
+        army[0].GetComponent<Animator>().SetInteger("attack", 10);
+    }
 }

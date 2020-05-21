@@ -17,38 +17,33 @@ public class Army : MonoBehaviour
 
     void Awake()
     {
-        //for (int i = 0; i < 5; i++)
-        //{
-        //    if (gameObject.name == "PlayerParent" && i == 2)
-        //    {
-        //        army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * i, 0, 0), Quaternion.identity, gameObject.transform));
-        //        army[i].GetComponent<SpriteRenderer>().enabled = false;
-        //        continue;
-        //    }
-        //    army.Add(Instantiate(pepega, new Vector3( -25 + 4 * i, 0, 0), Quaternion.identity, gameObject.transform));
-        //    army[i].GetComponent<SpriteRenderer>().enabled = false;
-        //}
-        //if (gameObject.name == "pidar")
-        //{
-        //    army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * 5, 0, 0), Quaternion.identity, gameObject.transform));
-        //    army[5].GetComponent<SpriteRenderer>().enabled = false;
-        //}
-        //if (gameObject.name == "pidar")
-        //{
-        //    army[0] = (Instantiate(hydraPrefab, new Vector3(-25 + 4 * 0, 0, 0), Quaternion.identity, gameObject.transform));
-        //    army[0].GetComponent<SpriteRenderer>().enabled = false;
-        //}
-        //if (gameObject.name == "PlayerParent")
-        //{
-        //    artifacts.Add(Instantiate(PoorMansShieldPrefab, gameObject.transform));
-        //    artifacts[0].GetComponent<SpriteRenderer>().enabled = false;
-        //}
-        for (int i = 0; i < 7; i++)
+        for (int i = 0; i < 5; i++)
         {
-            army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * i, 0, 0), Quaternion.identity, gameObject.transform));
+            if (gameObject.name == "PlayerParent" && i == 2)
+            {
+                army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * i, 0, 0), Quaternion.identity, gameObject.transform));
+                army[i].GetComponent<SpriteRenderer>().enabled = false;
+                army[i].GetComponent<Animator>().enabled = false;
+                continue;
+            }
+            army.Add(Instantiate(pepega, new Vector3(-25 + 4 * i, 0, 0), Quaternion.identity, gameObject.transform));
             army[i].GetComponent<SpriteRenderer>().enabled = false;
             army[i].GetComponent<Animator>().enabled = false;
         }
-
+        if (gameObject.name == "PlayerParent2")
+        {
+            army.Add(Instantiate(archerPrefab, new Vector3(-25 + 4 * 5, 0, 0), Quaternion.identity, gameObject.transform));
+            army[5].GetComponent<SpriteRenderer>().enabled = false;
+            army[5].GetComponent<Animator>().enabled = false;
+        }
+        if (gameObject.name == "PlayerParent2")
+        {
+            army[0] = (Instantiate(hydraPrefab, new Vector3(-25 + 4 * 0, 0, 0), Quaternion.identity, gameObject.transform));
+            army[0].GetComponent<SpriteRenderer>().enabled = false;
+            army[0].GetComponent<Animator>().enabled = false;
+            army[1] = (Instantiate(hydraPrefab, new Vector3(-25 + 4 * 1, 0, 0), Quaternion.identity, gameObject.transform));
+            army[1].GetComponent<SpriteRenderer>().enabled = false;
+            army[1].GetComponent<Animator>().enabled = false;
+        }
     }
 }
