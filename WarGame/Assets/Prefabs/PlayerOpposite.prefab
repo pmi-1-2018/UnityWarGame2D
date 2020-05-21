@@ -281,6 +281,7 @@ MonoBehaviour:
   pepega: {fileID: 8038926928652621991, guid: e9290f26784f6b542bfe55a06da0617a, type: 3}
   archerPrefab: {fileID: 701838494272284589, guid: 0acbd173f84e21a4280ed7e1bfee2308,
     type: 3}
+  hydraPrefab: {fileID: 0}
   PoorMansShieldPrefab: {fileID: 1517437524930411193, guid: f456e89bd78c1b948978f5a00a65e33d,
     type: 3}
   HeroSwordPrefab: {fileID: 8400911626274748298, guid: 9fdf4be9c4d0d314488357d15d7129c7,

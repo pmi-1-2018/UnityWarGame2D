@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Swordsman : Unit
+public class Hydra : Unit
 {
+    // Start is called before the first frame update
     private void Update()
     {
         Move(0.03f);
@@ -11,12 +12,17 @@ public class Swordsman : Unit
 
     void Start()
     {
-        health = 100;
+        health = 200;
         damage = 50;
     }
 
+    // Update is called once per frame
     public override void Attack(List<GameObject> targetArmy, int targetIndex)
     {
         targetArmy[targetIndex].GetComponentInChildren<Unit>().Health -= damage;
+        if(targetArmy.Count > 1)
+        {
+            targetArmy[targetIndex + 1].GetComponentInChildren<Unit>().Health -= damage;
+        }
     }
 }
