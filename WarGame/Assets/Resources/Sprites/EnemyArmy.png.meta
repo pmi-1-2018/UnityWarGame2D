@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: ba2249babbb4f0f478531ecb4d3c3f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3885223323025450636
+    second: EnemyArmy_0
+  - first:
+      213: -5142192781680550233
+    second: EnemyArmy_1
+  - first:
+      213: -6006665209586961879
+    second: EnemyArmy_2
+  - first:
+      213: 8473453173954013840
+    second: EnemyArmy_3
+  - first:
+      213: -6428977000360718167
+    second: EnemyArmy_4
+  - first:
+      213: 3622652214837788962
+    second: EnemyArmy_5
+  - first:
+      213: 5581494013324649164
+    second: EnemyArmy_6
+  - first:
+      213: -8143888847735460372
+    second: EnemyArmy_7
+  - first:
+      213: 3941013749631048535
+    second: EnemyArmy_8
+  - first:
+      213: -2810358721847610970
+    second: EnemyArmy_9
+  - first:
+      213: 3878098777810814760
+    second: EnemyArmy_10
+  - first:
+      213: 6561007886199425119
+    second: EnemyArmy_11
+  - first:
+      213: -6663874196216140153
+    second: EnemyArmy_12
+  - first:
+      213: 5411309608932623289
+    second: EnemyArmy_13
+  - first:
+      213: 159521427991388718
+    second: EnemyArmy_14
+  - first:
+      213: -4640878847855866560
+    second: EnemyArmy_15
+  - first:
+      213: -6368838973200662485
+    second: EnemyArmy_16
+  - first:
+      213: -3844440804434838143
+    second: EnemyArmy_17
+  - first:
+      213: -6564329621809988298
+    second: EnemyArmy_18
+  - first:
+      213: 8908087412519085880
+    second: EnemyArmy_19
+  - first:
+      213: 9054337138116754001
+    second: EnemyArmy_20
+  - first:
+      213: 5977708027695979490
+    second: EnemyArmy_21
+  - first:
+      213: -3543287773189816579
+    second: EnemyArmy_22
+  - first:
+      213: -4864413733915414010
+    second: EnemyArmy_23
+  - first:
+      213: -8959166457677004305
+    second: EnemyArmy_24
+  - first:
+      213: -1397380908799922945
+    second: EnemyArmy_25
+  - first:
+      213: -8028451527607226364
+    second: EnemyArmy_26
+  - first:
+      213: -1479380260628483240
+    second: EnemyArmy_27
+  - first:
+      213: 4008583151222070555
+    second: EnemyArmy_28
+  - first:
+      213: 2879331697219249496
+    second: EnemyArmy_29
+  - first:
+      213: -2522370167014368496
+    second: EnemyArmy_30
+  - first:
+      213: 6546850488189206123
+    second: EnemyArmy_31
+  - first:
+      213: 5330136386195489345
+    second: EnemyArmy_32
+  - first:
+      213: 5422314627093058856
+    second: EnemyArmy_33
+  - first:
+      213: -4053292305724118893
+    second: EnemyArmy_34
+  - first:
+      213: 5219548335236772979
+    second: EnemyArmy_35
+  - first:
+      213: 5533528549731515952
+    second: EnemyArmy_36
+  - first:
+      213: 1209337158288078652
+    second: EnemyArmy_37
+  - first:
+      213: -984154410891019765
+    second: EnemyArmy_38
+  - first:
+      213: 8641324724141459833
+    second: EnemyArmy_39
+  - first:
+      213: -8297120831279168913
+    second: EnemyArmy_40
+  - first:
+      213: 494286073030310944
+    second: EnemyArmy_41
+  - first:
+      213: -6555994512261820206
+    second: EnemyArmy_42
+  - first:
+      213: -6997947429325719323
+    second: EnemyArmy_43
+  - first:
+      213: 3170630939039234868
+    second: EnemyArmy_44
+  - first:
+      213: 7255110894950837639
+    second: EnemyArmy_45
+  - first:
+      213: -4243781761888115471
+    second: EnemyArmy_46
+  - first:
+      213: 2139667803678183478
+    second: EnemyArmy_47
+  - first:
+      213: -3513247382259011544
+    second: EnemyArmy_48
+  - first:
+      213: -5315234532112422950
+    second: EnemyArmy_49
+  - first:
+      213: 9119285539797614357
+    second: EnemyArmy_50
+  - first:
+      213: -900459367553504402
+    second: EnemyArmy_51
+  - first:
+      213: 1261353181176524949
+    second: EnemyArmy_52
+  - first:
+      213: 3311658531389537508
+    second: EnemyArmy_53
+  - first:
+      213: -4815220155778366358
+    second: EnemyArmy_54
+  - first:
+      213: -4378488445162887079
+    second: EnemyArmy_55
+  - first:
+      213: -3973156432417057027
+    second: EnemyArmy_56
+  - first:
+      213: 8363343094026770410
+    second: EnemyArmy_57
+  - first:
+      213: 8229095791338111326
+    second: EnemyArmy_58
+  - first:
+      213: 7440452070049790025
+    second: EnemyArmy_59
+  - first:
+      213: -195063111767974779
+    second: EnemyArmy_60
+  - first:
+      213: -2797125354545961586
+    second: EnemyArmy_61
+  - first:
+      213: 6969636904037737934
+    second: EnemyArmy_62
+  - first:
+      213: -5262474034986589974
+    second: EnemyArmy_63
+  - first:
+      213: -8399645679969064052
+    second: EnemyArmy_64
+  - first:
+      213: -4242341153496041590
+    second: EnemyArmy_65
+  - first:
+      213: -2788498090502797196
+    second: EnemyArmy_66
+  - first:
+      213: 8475255865999554253
+    second: EnemyArmy_67
+  - first:
+      213: -1425625041981167377
+    second: EnemyArmy_68
+  - first:
+      213: -1291712086610238600
+    second: EnemyArmy_69
+  - first:
+      213: -9180781416057129931
+    second: EnemyArmy_70
+  - first:
+      213: -5024979867881636956
+    second: EnemyArmy_71
+  - first:
+      213: -3274453364661472031
+    second: EnemyArmy_72
+  - first:
+      213: 248170942769473760
+    second: EnemyArmy_73
+  - first:
+      213: 270340236761686290
+    second: EnemyArmy_74
+  - first:
+      213: -9051307784055145465
+    second: EnemyArmy_75
+  - first:
+      213: 2302243052003056740
+    second: EnemyArmy_76
+  - first:
+      213: -484109082611715390
+    second: EnemyArmy_77
+  - first:
+      213: -8362363347521215290
+    second: EnemyArmy_78
+  - first:
+      213: 223101693291173073
+    second: EnemyArmy_79
+  - first:
+      213: 5427659156257260719
+    second: EnemyArmy_80
+  - first:
+      213: -7216544097048621495
+    second: EnemyArmy_81
+  - first:
+      213: -2743863997772672087
+    second: EnemyArmy_82
+  - first:
+      213: 8372996299269449466
+    second: EnemyArmy_83
+  - first:
+      213: -2777508487392124747
+    second: EnemyArmy_84
+  - first:
+      213: -6777035889473812574
+    second: EnemyArmy_85
+  - first:
+      213: -7641874009986697025
+    second: EnemyArmy_86
+  - first:
+      213: -3573642540028579965
+    second: EnemyArmy_87
+  - first:
+      213: 2865308681210019404
+    second: EnemyArmy_88
+  - first:
+      213: 202369266163847539
+    second: EnemyArmy_89
+  - first:
+      213: -298050428058655563
+    second: EnemyArmy_90
+  - first:
+      213: 7963489231637291940
+    second: EnemyArmy_91
+  - first:
+      213: -7685169518037154896
+    second: EnemyArmy_92
+  - first:
+      213: 5145022391569518204
+    second: EnemyArmy_93
+  - first:
+      213: 5444011169699528535
+    second: EnemyArmy_94
+  - first:
+      213: -1186333046160535533
+    second: EnemyArmy_95
+  - first:
+      213: -7571055316952377554
+    second: EnemyArmy_96
+  - first:
+      213: -8962327314884222296
+    second: EnemyArmy_97
+  - first:
+      213: 7701155754844195367
+    second: EnemyArmy_98
+  - first:
+      213: 6254446606496003143
+    second: EnemyArmy_99
+  - first:
+      213: -1453280097981050022
+    second: EnemyArmy_100
+  - first:
+      213: -1549355219685833265
+    second: EnemyArmy_101
+  - first:
+      213: -6752576807429770922
+    second: EnemyArmy_102
+  - first:
+      213: 5004353588075863539
+    second: EnemyArmy_103
+  - first:
+      213: 4451419252387118264
+    second: EnemyArmy_104
+  - first:
+      213: -8525588879607278076
+    second: EnemyArmy_105
+  - first:
+      213: 4325476061123202830
+    second: EnemyArmy_106
+  - first:
+      213: 6089423429230285319
+    second: EnemyArmy_107
+  - first:
+      213: -2920224876632412746
+    second: EnemyArmy_108
+  - first:
+      213: 3111840126755969774
+    second: EnemyArmy_109
+  - first:
+      213: -6479358110653562265
+    second: EnemyArmy_110
+  - first:
+      213: -2489153814439602768
+    second: EnemyArmy_111
+  - first:
+      213: -1012155643079439930
+    second: EnemyArmy_112
+  - first:
+      213: -1465065764482868722
+    second: EnemyArmy_113
+  - first:
+      213: 4536108023511914584
+    second: EnemyArmy_114
+  - first:
+      213: -6954135780322433602
+    second: EnemyArmy_115
+  - first:
+      213: -4829500717092061948
+    second: EnemyArmy_116
+  - first:
+      213: 7305611565505074873
+    second: EnemyArmy_117
+  - first:
+      213: 6741430426170246850
+    second: EnemyArmy_118
+  - first:
+      213: 4555371982445344799
+    second: EnemyArmy_119
+  - first:
+      213: 2065397633778528536
+    second: EnemyArmy_120
+  - first:
+      213: -7118696724676845180
+    second: EnemyArmy_121
+  - first:
+      213: 6124408843368015056
+    second: EnemyArmy_122
+  - first:
+      213: 3275084032158237029
+    second: EnemyArmy_123
+  - first:
+      213: -8795860100683555100
+    second: EnemyArmy_124
+  - first:
+      213: 3856194471451773798
+    second: EnemyArmy_125
+  - first:
+      213: 6734442103006322025
+    second: EnemyArmy_126
+  - first:
+      213: 7149037203356875498
+    second: EnemyArmy_127
+  - first:
+      213: -849852966694137580
+    second: EnemyArmy_128
+  - first:
+      213: -6142888596497218065
+    second: EnemyArmy_129
+  - first:
+      213: -7105013306188844908
+    second: EnemyArmy_130
+  - first:
+      213: -749144776063639961
+    second: EnemyArmy_131
+  - first:
+      213: -7501088137538936911
+    second: EnemyArmy_132
+  - first:
+      213: 4199291135068344048
+    second: EnemyArmy_133
+  - first:
+      213: -9027603313905046815
+    second: EnemyArmy_134
+  - first:
+      213: 3910300448017493411
+    second: EnemyArmy_135
+  - first:
+      213: -6732688142075670061
+    second: EnemyArmy_136
+  - first:
+      213: -2131914871600195929
+    second: EnemyArmy_137
+  - first:
+      213: 3882486879286276260
+    second: EnemyArmy_138
+  - first:
+      213: 1332580499733612528
+    second: EnemyArmy_139
+  - first:
+      213: -3513336529631712685
+    second: EnemyArmy_140
+  - first:
+      213: -3912015490086025852
+    second: EnemyArmy_141
+  - first:
+      213: -6624373997787046236
+    second: EnemyArmy_142
+  - first:
+      213: 9048446681823189591
+    second: EnemyArmy_143
+  - first:
+      213: -8025939298609107402
+    second: EnemyArmy_144
+  - first:
+      213: -7867221602662154853
+    second: EnemyArmy_145
+  - first:
+      213: -4645959186607234377
+    second: EnemyArmy_146
+  - first:
+      213: 9124451132676644200
+    second: EnemyArmy_147
+  - first:
+      213: -4046610984357846976
+    second: EnemyArmy_148
+  - first:
+      213: 8013494509636383667
+    second: EnemyArmy_149
+  - first:
+      213: 3007708167656542338
+    second: EnemyArmy_150
+  - first:
+      213: 5388544005541091052
+    second: EnemyArmy_151
+  - first:
+      213: -6457456349004056280
+    second: EnemyArmy_152
+  - first:
+      213: -2709246271860285988
+    second: EnemyArmy_153
+  - first:
+      213: 3729967723105694546
+    second: EnemyArmy_154
+  - first:
+      213: -1179149342745204109
+    second: EnemyArmy_155
+  - first:
+      213: -9078476674637540209
+    second: EnemyArmy_156
+  - first:
+      213: -2292440714017607647
+    second: EnemyArmy_157
+  - first:
+      213: 1228114147424527109
+    second: EnemyArmy_158
+  - first:
+      213: 928481704102294084
+    second: EnemyArmy_159
+  - first:
+      213: -6064284767294604403
+    second: EnemyArmy_160
+  - first:
+      213: 8484878182201503323
+    second: EnemyArmy_161
+  - first:
+      213: -4686262221363629258
+    second: EnemyArmy_162
+  - first:
+      213: 1957704054575065632
+    second: EnemyArmy_163
+  - first:
+      213: -980847434727704114
+    second: EnemyArmy_164
+  - first:
+      213: 5720927789604333116
+    second: EnemyArmy_165
+  - first:
+      213: 4487822451480488039
+    second: EnemyArmy_166
+  - first:
+      213: -411917880143073746
+    second: EnemyArmy_167
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyArmy_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4795106f8f9e41ac0800000000000000
+      internalID: -3885223323025450636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5a59d8e243a8b0800000000000000
+      internalID: -5142192781680550233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1316
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223fd901d904aca0800000000000000
+      internalID: -6006665209586961879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1317
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a6f6674c0c79570800000000000000
+      internalID: 8473453173954013840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1319
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d758fa7fa7c6a0800000000000000
+      internalID: -6428977000360718167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1321
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221403aeefe364230800000000000000
+      internalID: 3622652214837788962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1321
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc26f2cab33757d40800000000000000
+      internalID: 5581494013324649164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_7
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced667cbd381bfe80800000000000000
+      internalID: -8143888847735460372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1117
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b50b9ff1b41b630800000000000000
+      internalID: 3941013749631048535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1119
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a13ad4e1a99ff8d0800000000000000
+      internalID: -2810358721847610970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1120
+        width: 132
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274a479a46c1d530800000000000000
+      internalID: 3878098777810814760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1118
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58047929e16d0b50800000000000000
+      internalID: 6561007886199425119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_12
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1118
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e25aaa9b92583a0800000000000000
+      internalID: -6663874196216140153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_13
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1121
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b346124b65d81b40800000000000000
+      internalID: 5411309608932623289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_14
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1124
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e226d71c4ebb63200800000000000000
+      internalID: 159521427991388718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1121
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4debb649489fb0800000000000000
+      internalID: -4640878847855866560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_16
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1117
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2006ba82b65d97a0800000000000000
+      internalID: -6368838973200662485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_17
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1117
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18df4a3057dc5aac0800000000000000
+      internalID: -3844440804434838143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_18
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1117
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df07ffcf0d6e4a0800000000000000
+      internalID: -6564329621809988298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 884
+        width: 83
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837245bfd42ef9b70800000000000000
+      internalID: 8908087412519085880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 884
+        width: 117
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a731ab7a777ad70800000000000000
+      internalID: 9054337138116754001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_21
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 884
+        width: 121
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd1d9a7c515f250800000000000000
+      internalID: 5977708027695979490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_22
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 884
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe390e1b86b3dec0800000000000000
+      internalID: -3543287773189816579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_23
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 884
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b0755b712e7cb0800000000000000
+      internalID: -4864413733915414010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_24
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 884
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1419e0395aaa380800000000000000
+      internalID: -8959166457677004305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_25
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 911
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc611397718b9ce0800000000000000
+      internalID: -1397380908799922945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_26
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 943
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40077884fd5359090800000000000000
+      internalID: -8028451527607226364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_27
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 951
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b385bd7f287be0800000000000000
+      internalID: -1479380260628483240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_28
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d153d332951a730800000000000000
+      internalID: 4008583151222070555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_29
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 951
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a64b5ce075f720800000000000000
+      internalID: 2879331697219249496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_30
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd01b72bdbefcd0800000000000000
+      internalID: -2522370167014368496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_31
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3c1215d51bda50800000000000000
+      internalID: 6546850488189206123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_32
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 951
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142019f8dc278f940800000000000000
+      internalID: 5330136386195489345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_33
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 951
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255948bc6eef3b40800000000000000
+      internalID: 5422314627093058856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_34
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986d7a8f10dfb7c0800000000000000
+      internalID: -4053292305724118893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_35
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 951
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374f4c97e8f8f6840800000000000000
+      internalID: 5219548335236772979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_36
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eba39e5ea0bcc40800000000000000
+      internalID: 5533528549731515952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_37
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 951
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f075fcbd68c010800000000000000
+      internalID: 1209337158288078652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_38
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 951
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af4be07c49752f0800000000000000
+      internalID: -984154410891019765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_39
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 951
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979804b8d072ce770800000000000000
+      internalID: 8641324724141459833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_40
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 951
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f628c116094badc80800000000000000
+      internalID: -8297120831279168913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_41
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 925
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf468809e0cd600800000000000000
+      internalID: 494286073030310944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_42
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0593be9bd6405a0800000000000000
+      internalID: -6555994512261820206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_43
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 925
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8be26c3eb42ee90800000000000000
+      internalID: -6997947429325719323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_44
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfb435a08500c20800000000000000
+      internalID: 3170630939039234868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_45
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d6c937be45fa460800000000000000
+      internalID: 7255110894950837639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_46
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 925
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a06ad8fe0b15c0800000000000000
+      internalID: -4243781761888115471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_47
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630149fe780a1bd10800000000000000
+      internalID: 2139667803678183478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_48
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 925
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820716cae107e3fc0800000000000000
+      internalID: -3513247382259011544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_49
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 925
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ac87ba5e7c36b0800000000000000
+      internalID: -5315234532112422950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_50
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 922
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3ef4e1e53e8e70800000000000000
+      internalID: 9119285539797614357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_51
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 925
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bec4ed9fce083f0800000000000000
+      internalID: -900459367553504402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_52
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 925
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f55c090a318110800000000000000
+      internalID: 1261353181176524949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_53
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7ddc63ef55fd20800000000000000
+      internalID: 3311658531389537508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_54
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64878bc7c6ec2db0800000000000000
+      internalID: -4815220155778366358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_55
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 925
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e9e415fb7c33c0800000000000000
+      internalID: -4378488445162887079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_56
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 925
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df619b086438cd8c0800000000000000
+      internalID: -3973156432417057027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_57
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 925
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79e2eab30901470800000000000000
+      internalID: 8363343094026770410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 922
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51ce59c50f933270800000000000000
+      internalID: 8229095791338111326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_59
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 925
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94833ab8cbbc14760800000000000000
+      internalID: 7440452070049790025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_60
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 909
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c9942222ffa4df0800000000000000
+      internalID: -195063111767974779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_61
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 909
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ac025f4d9e29d0800000000000000
+      internalID: -2797125354545961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_62
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 907
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56f9666df19b060800000000000000
+      internalID: 6969636904037737934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_63
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 909
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae068e83fbfe7f6b0800000000000000
+      internalID: -5262474034986589974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_64
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 909
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bac4ed1c67e6b80800000000000000
+      internalID: -8399645679969064052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_65
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 909
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f8d1a23d2025c0800000000000000
+      internalID: -4242341153496041590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_66
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 906
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c9b2c2c34d49d0800000000000000
+      internalID: -2788498090502797196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_67
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 909
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f2796e482e9570800000000000000
+      internalID: 8475255865999554253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_68
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 909
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8afcdd399273ce0800000000000000
+      internalID: -1425625041981167377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_69
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 909
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a48573bae21ee0800000000000000
+      internalID: -1291712086610238600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_70
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 909
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343867a1ff479080800000000000000
+      internalID: -9180781416057129931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_71
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 909
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abfc630f6fa34ab0800000000000000
+      internalID: -5024979867881636956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_72
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 909
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e435cd730ece82d0800000000000000
+      internalID: -3274453364661472031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_73
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 909
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82957582ea17300800000000000000
+      internalID: 248170942769473760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_74
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 909
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211eca4530170c300800000000000000
+      internalID: 270340236761686290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_75
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 675
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3aaab68b436280800000000000000
+      internalID: -9051307784055145465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_76
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 675
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd045abd533ff10800000000000000
+      internalID: 2302243052003056740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_77
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 675
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27362ba591849f0800000000000000
+      internalID: -484109082611715390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_78
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 663
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4604457dae2fb80800000000000000
+      internalID: -8362363347521215290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_79
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 667
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d49869decd981300800000000000000
+      internalID: 223101693291173073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_80
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 668
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44c92ee3be25b40800000000000000
+      internalID: 5427659156257260719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_81
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 735
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e897de06fa9db90800000000000000
+      internalID: -7216544097048621495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_82
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 735
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3d6cc4b36dbe9d0800000000000000
+      internalID: -2743863997772672087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_83
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 735
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6ad9ba5cbd23470800000000000000
+      internalID: 8372996299269449466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 476
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02c502fbe4479d0800000000000000
+      internalID: -2777508487392124747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 476
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a707d9c3c123f1a0800000000000000
+      internalID: -6777035889473812574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_86
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 458
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f378831c92f590800000000000000
+      internalID: -7641874009986697025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_87
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 451
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2f573b0fd76ec0800000000000000
+      internalID: -3573642540028579965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_88
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 460
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebd53801f93c720800000000000000
+      internalID: 2865308681210019404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 464
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371172f76c5fec200800000000000000
+      internalID: 202369266163847539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_90
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 487
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4296ef6bc1ddbf0800000000000000
+      internalID: -298050428058655563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_91
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 484
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a368834ff38e60800000000000000
+      internalID: 7963489231637291940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_92
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 484
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34cb68a0bc85590800000000000000
+      internalID: -7685169518037154896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_93
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 487
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e8eea0b9ac66740800000000000000
+      internalID: 5145022391569518204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_94
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 487
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff233b0530d8b40800000000000000
+      internalID: 5444011169699528535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_95
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 487
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3105b46416c498fe0800000000000000
+      internalID: -1186333046160535533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_96
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 484
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27983a6d453ee690800000000000000
+      internalID: -7571055316952377554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_97
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 434
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2ab83aaca6f9380800000000000000
+      internalID: -8962327314884222296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_98
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 466
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a81774b5000ea60800000000000000
+      internalID: 7701155754844195367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_99
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 469
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74477d61d024cc650800000000000000
+      internalID: 6254446606496003143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_100
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 469
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d1b06379e4dbe0800000000000000
+      internalID: -1453280097981050022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_101
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 469
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc58ab3f2a59f7ae0800000000000000
+      internalID: -1549355219685833265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_102
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 469
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6517b9a9b270a42a0800000000000000
+      internalID: -6752576807429770922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_103
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 453
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd96bbf219037540800000000000000
+      internalID: 5004353588075863539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_104
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 453
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7ed4b93e96cd30800000000000000
+      internalID: 4451419252387118264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_105
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 453
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406dcf1a5160fa980800000000000000
+      internalID: -8525588879607278076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_106
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f44bb6f8d270c30800000000000000
+      internalID: 4325476061123202830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_107
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 450
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025632885af18450800000000000000
+      internalID: 6089423429230285319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_108
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 453
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bde01c52f64977d0800000000000000
+      internalID: -2920224876632412746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_109
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea9819ab1a7f2b20800000000000000
+      internalID: 3111840126755969774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_110
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 453
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c2f1a022b416a0800000000000000
+      internalID: -6479358110653562265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_111
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 451
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d40b3bcfb47dd0800000000000000
+      internalID: -2489153814439602768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_112
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 450
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c7d42ec914f1f0800000000000000
+      internalID: -1012155643079439930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_113
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 453
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a996f037a0babe0800000000000000
+      internalID: -1465065764482868722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_114
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 453
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581a3cc63e73fe30800000000000000
+      internalID: 4536108023511914584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_115
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 453
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb52c063a52fd7f90800000000000000
+      internalID: -6954135780322433602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_116
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbb338faa2afcb0800000000000000
+      internalID: -4829500717092061948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_117
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 453
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65ae4130fb26560800000000000000
+      internalID: 7305611565505074873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_118
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 434
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c643e5414f5e8d50800000000000000
+      internalID: 6741430426170246850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_119
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18fb61ceaee73f30800000000000000
+      internalID: 4555371982445344799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_120
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113d497434c9ac10800000000000000
+      internalID: 2065397633778528536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_121
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 437
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48166ed9b0f453d90800000000000000
+      internalID: -7118696724676845180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_122
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4263005654ef450800000000000000
+      internalID: 6124408843368015056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_123
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 434
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561885a339f637d20800000000000000
+      internalID: 3275084032158237029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_124
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee99b447d3dee580800000000000000
+      internalID: -8795860100683555100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_125
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b45b7d074f38530800000000000000
+      internalID: 3856194471451773798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_126
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d502e796b857d50800000000000000
+      internalID: 6734442103006322025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_127
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 437
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7320957b763360800000000000000
+      internalID: 7149037203356875498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_128
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 437
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41152e0ca37b434f0800000000000000
+      internalID: -849852966694137580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_129
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 437
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe54cfe2e5310caa0800000000000000
+      internalID: -6142888596497218065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_130
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 437
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490b030ca0ce56d90800000000000000
+      internalID: -7105013306188844908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_131
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 247
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e13699bc08a95f0800000000000000
+      internalID: -749144776063639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_132
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 124
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf5815d418c6e790800000000000000
+      internalID: -7501088137538936911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_133
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 244
+        width: 169
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe023ed901e64a30800000000000000
+      internalID: 4199291135068344048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_134
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 237
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaec85cd9287b280800000000000000
+      internalID: -9027603313905046815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 236
+        width: 114
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad22213a8d244630800000000000000
+      internalID: 3910300448017493411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_136
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 237
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1581c5ecfa092a0800000000000000
+      internalID: -6732688142075670061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_137
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 260
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6d5ea38bae962e0800000000000000
+      internalID: -2131914871600195929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_138
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 260
+        width: 109
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a039f41f3d51e530800000000000000
+      internalID: 3882486879286276260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_139
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 263
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f70c3977e64e7210800000000000000
+      internalID: 1332580499733612528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_140
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 26
+        width: 166
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ae5ee6a0f1e3fc0800000000000000
+      internalID: -3513336529631712685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_141
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 22
+        width: 122
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c89573aab5b9c0800000000000000
+      internalID: -3912015490086025852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_142
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 153
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae919a42fe7114a0800000000000000
+      internalID: -6624373997787046236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_143
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 27
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a122ff05a829d70800000000000000
+      internalID: 9048446681823189591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_144
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 154
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6e8d2bb22e9090800000000000000
+      internalID: -8025939298609107402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_145
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 134
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfa0c72a302d290800000000000000
+      internalID: -7867221602662154853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_146
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 60
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b220513cbc368fb0800000000000000
+      internalID: -4645959186607234377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_147
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 64
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1a9536ff80ae70800000000000000
+      internalID: 9124451132676644200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_148
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 26
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0402825efbc87d7c0800000000000000
+      internalID: -4046610984357846976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_149
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 145
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37b689cc6a53f60800000000000000
+      internalID: 8013494509636383667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_150
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 129
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280953994a68db920800000000000000
+      internalID: 3007708167656542338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_151
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 122
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce656da2934f7ca40800000000000000
+      internalID: 5388544005541091052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_152
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 110
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829b505e9a18266a0800000000000000
+      internalID: -6457456349004056280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_153
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 102
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd57b4bed2d66ad0800000000000000
+      internalID: -2709246271860285988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_154
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 104
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2533367c1e183c330800000000000000
+      internalID: 3729967723105694546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_155
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 103
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a69809be1d2afe0800000000000000
+      internalID: -1179149342745204109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_156
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 100
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845f827095c20280800000000000000
+      internalID: -9078476674637540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_157
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207654015d9f20e0800000000000000
+      internalID: -2292440714017607647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_158
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 30
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503eedc6f432b0110800000000000000
+      internalID: 1228114147424527109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_159
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 92
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4427779c031a2ec00800000000000000
+      internalID: 928481704102294084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_160
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 92
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb794522557dba0800000000000000
+      internalID: -6064284767294604403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_161
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 79
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e259c70c750c570800000000000000
+      internalID: 8484878182201503323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_162
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b94ba65d07feb0800000000000000
+      internalID: -4686262221363629258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_163
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 79
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ae94c17792b2b10800000000000000
+      internalID: 1957704054575065632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_164
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 64
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b33274745362f0800000000000000
+      internalID: -980847434727704114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_165
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 65
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e60d8381d46f40800000000000000
+      internalID: 5720927789604333116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_166
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 31
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768648bfdb2f74e30800000000000000
+      internalID: 4487822451480488039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyArmy_167
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 31
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea075ded2984af0800000000000000
+      internalID: -411917880143073746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ public class HeroSword : Artifact
 {
     void Start()
     {
-        value = 20;
+        value = 50;
         type = ArtifactType.fightArt;
     }
 

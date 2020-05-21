@@ -26,6 +26,8 @@ public class TileAutomata : MonoBehaviour {
 
     [Range(0, 101)]
     public int treeIniChance;
+    [Range(0, 101)]
+    public int buildingIniChance;
 
     int width;
     int height;
@@ -37,10 +39,10 @@ public class TileAutomata : MonoBehaviour {
         height = tmpSize.y;
 
         if (terrainMap==null)
-            {
+        {
             terrainMap = new int[width, height];
             initPos();
-            }
+        }
 
 
         for (int i = 0; i < nu; i++)
@@ -56,7 +58,7 @@ public class TileAutomata : MonoBehaviour {
 
                 if (terrainMap[x, y] == 1)
                 {
-                    TerrainTile topTile = new TerrainTile(treeIniChance);
+                    TerrainTile topTile = new TerrainTile(treeIniChance, buildingIniChance);
                     var ground = new Tile();
                     ground.sprite = topTile.GrassSprite;
                     botMap.SetTile(new Vector3Int(-x + width / 2, -y + height / 2, 0), ground);
@@ -78,7 +80,6 @@ public class TileAutomata : MonoBehaviour {
             {
                 terrainMap[x, y] = Random.Range(1, 101) < iniChance ? 1 : 0;
             }
-
         }
 
     }
@@ -112,18 +113,16 @@ public class TileAutomata : MonoBehaviour {
                 if (oldMap[x,y] == 1)
                 {
                     if (neighb < deathLimit) newMap[x, y] = 0;
+                    else
+                    {
+                        newMap[x, y] = 1;
 
-                        else
-                        {
-                            newMap[x, y] = 1;
-
-                        }
+                    }
                 }
 
                 if (oldMap[x,y] == 0)
                 {
                     if (neighb > birthLimit) newMap[x, y] = 1;
-
                 else
                 {
                     newMap[x, y] = 0;

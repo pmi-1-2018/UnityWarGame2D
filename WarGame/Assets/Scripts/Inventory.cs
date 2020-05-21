@@ -40,7 +40,7 @@ public class Inventory : MonoBehaviour, IList<Item>
         }
         else
         {
-            if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "pidar")
+            if (Input.GetKeyDown(KeyCode.I) && gameObject.name == "PlayerParent2")
             {
                 InventoryEnabled = !InventoryEnabled;
             }

@@ -536,6 +536,7 @@ MonoBehaviour:
   botMap: {fileID: 1395856350}
   botTile: {fileID: 11400000, guid: 0735be7c7c0d3a149bd683ad6477c8a7, type: 2}
   treeIniChance: 20
+  buildingIniChance: 3
 --- !u!4 &283282845
 Transform:
   m_ObjectHideFlags: 0
@@ -660,10 +661,55 @@ MonoBehaviour:
   coinSprite: {fileID: 21300000, guid: 199bfdaa8d61c8345960ef946fe123c5, type: 3}
   medkitSprite: {fileID: 21300000, guid: a6ad465d26d8d584ebfdc231650abe45, type: 3}
   swordValue: 1000
-  healthPotionValue: 100
+  healthPotionValue: 0
   manaPotionValue: 0
   coinValue: 0
   medkitValue: 0
+--- !u!1 &322055384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 322055386}
+  - component: {fileID: 322055385}
+  m_Layer: 0
+  m_Name: bots
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &322055385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 322055384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e832862640cea734a9c5fb9e352ba161, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 8230070658168290733, guid: 752bbb2ca1501a9418e4051ba498b4d4, type: 3}
+  numOfBots: 25
+--- !u!4 &322055386
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 322055384}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -87.00165, y: -41.482525, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &347194674
 GameObject:
   m_ObjectHideFlags: 0
@@ -1477,11 +1523,12 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 7948916885972071530, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
+    - target: {fileID: 7948916885972071528, guid: 36488f24ce4cdd84c9d71b1bb04d26cf,
         type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
+      propertyPath: hydraPrefab
+      value: 
+      objectReference: {fileID: 2860986671276417047, guid: 7a90302669b51e3419a3fddd7441d49b,
+        type: 3}
     m_RemovedComponents:
     - {fileID: 7948916885972071529, guid: 36488f24ce4cdd84c9d71b1bb04d26cf, type: 3}
     - {fileID: 7948916885972071531, guid: 36488f24ce4cdd84c9d71b1bb04d26cf, type: 3}
@@ -1581,7 +1628,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &928042617
 GameObject:
@@ -2588,6 +2635,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inv: {fileID: 114506987}
   TurnPass: {fileID: 1078638978}
+--- !u!114 &1436052616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436052608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560f01afcc5b0e64dbc4cb1978351a5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1455338815
 GameObject:
   m_ObjectHideFlags: 0
@@ -3253,6 +3312,12 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3502048563292840631, guid: 0f7bffa0630cd49468d0db23c49a5776,
+        type: 3}
+      propertyPath: hydraPrefab
+      value: 
+      objectReference: {fileID: 2860986671276417047, guid: 7a90302669b51e3419a3fddd7441d49b,
+        type: 3}
     - target: {fileID: 3502048563292840633, guid: 0f7bffa0630cd49468d0db23c49a5776,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3311,7 +3376,7 @@ PrefabInstance:
     - target: {fileID: 3502048563292840634, guid: 0f7bffa0630cd49468d0db23c49a5776,
         type: 3}
       propertyPath: m_Name
-      value: pidar
+      value: PlayerParent2
       objectReference: {fileID: 0}
     - target: {fileID: 3502048563292840634, guid: 0f7bffa0630cd49468d0db23c49a5776,
         type: 3}
