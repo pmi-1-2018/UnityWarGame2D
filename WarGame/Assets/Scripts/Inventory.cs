@@ -17,6 +17,7 @@ public class Inventory : MonoBehaviour, IList<Item>
     public Button TurnPass;
     private bool checkButtonIsPresses;
 
+    public List<Item> ItemList { get => itemList; }
 
     void Start()
     {
@@ -66,9 +67,9 @@ public class Inventory : MonoBehaviour, IList<Item>
         this.useItemAction = useItemAction;
         itemList = new List<Item>();
 
-        AddItem(new Item { itemType = Item.ItemType.Sword, amount = 1, value = 100 });
-        AddItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1, value = 40 });
-        AddItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1, value = 50 });
+        //AddItem(new Item { itemType = Item.ItemType.Sword, amount = 1 });
+        //AddItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+        //AddItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1 });
     }
 
     public void AddItem(Item item)

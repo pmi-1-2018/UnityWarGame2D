@@ -6,11 +6,9 @@ using UnityEngine;
 [Serializable]
 public class Item
 {
-    public int value;
     public ItemType itemType;
     public int amount;
 
-    public int Value { get => value; }
     public ItemType Type { get => itemType; }
 
     public enum ItemType
@@ -62,10 +60,62 @@ public class Item
 
     public void EnableBoost(List<GameObject> army)
     {
-        foreach (GameObject unit in army)
+       
+            switch (itemType)
+            {
+                default:
+                case ItemType.Coin:
+                case ItemType.ManaPotion:
+                break;
+                case ItemType.Sword:
+                foreach (GameObject unit in army)
+                {
+                    unit.GetComponentInChildren<Unit>().Damage += GetValue();
+                }
+                break;
+                case ItemType.HealthPotion:
+                case ItemType.Medkit:
+                foreach (GameObject unit in army)
+                {
+                    unit.GetComponentInChildren<Unit>().Health += GetValue();
+                }
+                break;
+            }
+            
+        
+    }
+    public void DisableBoost(List<GameObject> army)
+    {
+
+        switch (itemType)
         {
-            unit.GetComponentInChildren<Unit>().Health += value;
+            default:
+            case ItemType.Coin:
+            case ItemType.ManaPotion:
+                break;
+            case ItemType.Sword:
+                foreach (GameObject unit in army)
+                {
+
+                    unit.GetComponentInChildren<Unit>().Damage -= GetValue();
+                }
+                break;
+            case ItemType.HealthPotion:
+            case ItemType.Medkit:
+                foreach (GameObject unit in army)
+                {
+                    unit.GetComponentInChildren<Unit>().Health -= GetValue();
+
+                    if (unit.GetComponentInChildren<Unit>().Health <= 0)
+                    {
+                        unit.GetComponentInChildren<Unit>().Health = 1;
+
+                    }
+                }
+                break;
         }
+
+
     }
 
 }

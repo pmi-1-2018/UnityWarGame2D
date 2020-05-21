@@ -6,7 +6,6 @@ public class Army : MonoBehaviour
 {
     private ArtifactsBag artifacts = new ArtifactsBag();
     private List<GameObject> army = new List<GameObject>();
-    private Inventory inventoryItems = new Inventory();
     public GameObject pepega;
     public GameObject archerPrefab;
     public GameObject PoorMansShieldPrefab;
@@ -15,7 +14,6 @@ public class Army : MonoBehaviour
 
     public List<GameObject> GetArmy { get => army; }
     public ArtifactsBag GetArtifacts { get => artifacts; }
-    public Inventory GetInventoryItems { get => inventoryItems; }
 
 
     void Awake()

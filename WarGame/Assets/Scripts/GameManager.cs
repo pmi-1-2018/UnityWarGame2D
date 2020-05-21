@@ -44,19 +44,13 @@ public class GameManager : MonoBehaviour
     {
         var attackingArmy = attackingPlayer.GetComponent<Army>().GetArmy;
         var defendingArmy = opponent.GetComponent<Army>().GetArmy;
-        foreach (Item art in attackingPlayer.GetComponent<Army>().GetInventoryItems)
+        foreach (Item art in attackingPlayer.GetComponent<Player>().Inventory.ItemList)
         {
-            if (art.itemType == Item.ItemType.HealthPotion)
-            {
-                art.EnableBoost(attackingArmy);
-            }
+            art.EnableBoost(attackingArmy);
         }
-        foreach (Item art in opponent.GetComponent<Army>().GetInventoryItems)
+        foreach (Item art in opponent.GetComponent<Player>().Inventory.ItemList)
         {
-            if (art.itemType == Item.ItemType.ManaPotion)
-            {
-                art.EnableBoost(defendingArmy);
-            }
+            art.EnableBoost(defendingArmy);
         }
         int turn = 0;
         while (attackingArmy.Count > 0 && defendingArmy.Count > 0)
@@ -96,13 +90,9 @@ public class GameManager : MonoBehaviour
             GameObject.Destroy(opponent);
             opponent = null;
             Debug.Log("winner: " + attackingPlayer.name);
-            foreach (GameObject art in attackingPlayer.GetComponent<Army>().GetArtifacts)
+            foreach (Item art in opponent.GetComponent<Player>().Inventory.ItemList)
             {
-                var artComp = art.GetComponentInChildren<Artifact>();
-                if (artComp.Type == ArtifactType.fightArt)
-                {
-                    artComp.DisableBoost(attackingArmy);
-                }
+                art.DisableBoost(attackingArmy);
             }
         }
         else
@@ -110,13 +100,9 @@ public class GameManager : MonoBehaviour
             Debug.Log("winner: " + opponent.name);
             GameObject.Destroy(attackingPlayer);
             attackingPlayer = null;
-            foreach (GameObject art in opponent.GetComponent<Army>().GetArtifacts)
+            foreach (Item art in opponent.GetComponent<Player>().Inventory.ItemList)
             {
-                var artComp = art.GetComponentInChildren<Artifact>();
-                if (artComp.Type == ArtifactType.fightArt)
-                {
-                    artComp.DisableBoost(defendingArmy);
-                }
+                 art.DisableBoost(defendingArmy);
             }
         }
         ReturnToMainScene(attackingPlayer, opponent);

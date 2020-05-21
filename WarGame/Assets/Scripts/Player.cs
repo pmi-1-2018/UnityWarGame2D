@@ -21,6 +21,8 @@ public class Player : MonoBehaviour
 
     private Inventory inventory;
 
+    public Inventory Inventory { get => inventory; }
+
     private void Start()
     {
         stamina = 10;
