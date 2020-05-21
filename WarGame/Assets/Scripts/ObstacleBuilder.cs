@@ -15,6 +15,11 @@ public class ObstacleBuilder
         this.product = new Tree();
         this.product.IsTree = true;
     }
+    public void BuildHouse()
+    {
+        this.product = new Building();
+        this.product.IsBuilding = true;
+    }
     public Obstacle GetResult()
     {
         var prod = this.product;
