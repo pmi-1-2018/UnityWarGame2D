@@ -9,15 +9,17 @@ public class TerrainTile : Tile
     private Sprite grassSprite;
     [Range(0, 100)]
     private int treeIniChance;
-    private ObstacleBuilder obstacleBuilder ;
+    private int buildingIniChance;
+    private ObstacleBuilder obstacleBuilder;
     private Obstacle obj;
 
     public Sprite GrassSprite { get => grassSprite; }
     public Obstacle Obj { get => obj; }
 
-    public TerrainTile(int treeIniChance)
+    public TerrainTile(int treeIniChance, int buildingIniChance)
     {
         this.treeIniChance = treeIniChance;
+        this.buildingIniChance = buildingIniChance;
         grassSprite = Resources.LoadAll<Sprite>("Sprites/Grass")[0];
         obstacleBuilder = new ObstacleBuilder();
     }
@@ -27,6 +29,12 @@ public class TerrainTile : Tile
         if (Random.Range(1, 101) < treeIniChance)
         {
             obstacleBuilder.BuildTree();
+            obj = obstacleBuilder.GetResult();
+            tileData.sprite = obj.Sprite;
+        }
+        else if (Random.Range(1, 101) < buildingIniChance)
+        {
+            obstacleBuilder.BuildHouse();
             obj = obstacleBuilder.GetResult();
             tileData.sprite = obj.Sprite;
         }
