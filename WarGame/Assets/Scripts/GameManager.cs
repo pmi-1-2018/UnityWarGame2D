@@ -2,16 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     private GameObject mainCameraRef;
     private GameObject tileAutomataRef;
     private GameObject gridRef;
     private GameObject canvasRef;
-
+    private string winnerName;
+    private Text winText;
     public void BeginBattle(GameObject attackingPlayer, GameObject opponent)
     {
+        
         StartCoroutine(LoadBattleScene(attackingPlayer, opponent));
     }
 
@@ -21,6 +23,7 @@ public class GameManager : MonoBehaviour
 
     IEnumerator LoadBattleScene(GameObject attackingPlayer, GameObject opponent)
     {
+
         mainCameraRef = GameObject.Find("Main Camera");
         tileAutomataRef = GameObject.Find("TileAutomata");
         gridRef = GameObject.Find("Grid");
@@ -35,10 +38,20 @@ public class GameManager : MonoBehaviour
         {
             yield return null;
         }
-        SceneManager.MoveGameObjectToScene(attackingPlayer, SceneManager.GetSceneByName("BattleScene"));
-        SceneManager.MoveGameObjectToScene(opponent, SceneManager.GetSceneByName("BattleScene"));
-        PositionWarriors.PositionUnits(attackingPlayer.GetComponent<Army>().GetArmy, opponent.GetComponent<Army>().GetArmy, true);
-        StartCoroutine(Fight(attackingPlayer, opponent));
+        if(opponent.transform.parent != null)
+        {
+            SceneManager.MoveGameObjectToScene(GameObject.Find("bots"), SceneManager.GetSceneByName("BattleScene"));
+            SceneManager.MoveGameObjectToScene(attackingPlayer, SceneManager.GetSceneByName("BattleScene"));
+            PositionWarriors.PositionUnits(attackingPlayer.GetComponent<Army>().GetArmy, opponent.GetComponent<Army>().GetArmy, true);
+            StartCoroutine(Fight(attackingPlayer, opponent));
+        }
+        else
+        {
+            SceneManager.MoveGameObjectToScene(attackingPlayer, SceneManager.GetSceneByName("BattleScene"));
+            SceneManager.MoveGameObjectToScene(opponent, SceneManager.GetSceneByName("BattleScene"));
+            PositionWarriors.PositionUnits(attackingPlayer.GetComponent<Army>().GetArmy, opponent.GetComponent<Army>().GetArmy, true);
+            StartCoroutine(Fight(attackingPlayer, opponent));
+        }
     }
     IEnumerator Fight(GameObject attackingPlayer, GameObject opponent)
     {
@@ -98,6 +111,7 @@ public class GameManager : MonoBehaviour
             GameObject.Destroy(opponent);
             opponent = null;
             Debug.Log("winner: " + attackingPlayer.name);
+            winnerName = attackingPlayer.name;
             foreach (GameObject art in attackingPlayer.GetComponent<Army>().GetArtifacts)
             {
                 var artComp = art.GetComponentInChildren<Artifact>();
@@ -110,6 +124,7 @@ public class GameManager : MonoBehaviour
         else
         {
             Debug.Log("winner: " + opponent.name);
+            winnerName = opponent.name;
             GameObject.Destroy(attackingPlayer);
             attackingPlayer = null;
             foreach (GameObject art in opponent.GetComponent<Army>().GetArtifacts)
@@ -121,6 +136,11 @@ public class GameManager : MonoBehaviour
                 }
             }
         }
+        Debug.Log(winnerName != "PlayerParent" || winnerName != "pidar");
+        if (winnerName != "PlayerParent" || winnerName != "pidar")
+        {
+            GameObject.Find("WinnerText").GetComponentInChildren<Text>().text = winnerName + " WINS";
+        }
         ReturnToMainScene(attackingPlayer, opponent);
     }
     void ReturnToMainScene(GameObject attackingPlayer, GameObject opponent)
@@ -131,6 +151,10 @@ public class GameManager : MonoBehaviour
             {
                 unit.GetComponent<SpriteRenderer>().enabled = false;
             }
+        }
+        else
+        {
+
         }
         if (opponent != null)
         {
@@ -145,10 +169,18 @@ public class GameManager : MonoBehaviour
         canvasRef.SetActive(true);
         if (opponent != null)
         {
-            SceneManager.MoveGameObjectToScene(opponent, SceneManager.GetSceneByName("SampleScene"));
+            if(opponent.transform.parent != null)
+            {
+                SceneManager.MoveGameObjectToScene(GameObject.Find("bots"), SceneManager.GetSceneByName("SampleScene"));
+            }
+            else
+            {
+                SceneManager.MoveGameObjectToScene(opponent, SceneManager.GetSceneByName("SampleScene"));
+            }
         }
         if (attackingPlayer != null)
         {
+            SceneManager.MoveGameObjectToScene(GameObject.Find("bots"), SceneManager.GetSceneByName("SampleScene"));
             SceneManager.MoveGameObjectToScene(attackingPlayer, SceneManager.GetSceneByName("SampleScene"));
         }
         SceneManager.UnloadSceneAsync("BattleScene");
