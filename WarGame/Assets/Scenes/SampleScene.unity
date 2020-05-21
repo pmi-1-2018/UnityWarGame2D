@@ -480,6 +480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 40
     itemType: 4
     amount: 1
 --- !u!4 &226668429
@@ -659,6 +660,11 @@ MonoBehaviour:
   manaPotionSprite: {fileID: 21300000, guid: e4618e77e9ada244fbfa3b34446c5fb8, type: 3}
   coinSprite: {fileID: 21300000, guid: 199bfdaa8d61c8345960ef946fe123c5, type: 3}
   medkitSprite: {fileID: 21300000, guid: a6ad465d26d8d584ebfdc231650abe45, type: 3}
+  swordValue: 0
+  healthPotionValue: 0
+  manaPotionValue: 0
+  coinValue: 0
+  medkitValue: 0
 --- !u!1 &347194674
 GameObject:
   m_ObjectHideFlags: 0
@@ -1562,6 +1568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 80
     itemType: 1
     amount: 1
 --- !u!4 &815865548
@@ -2191,6 +2198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 50
     itemType: 2
     amount: 1
 --- !u!4 &1296258788
@@ -2640,6 +2648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 60
     itemType: 0
     amount: 1
 --- !u!4 &1525027307
@@ -2886,8 +2895,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 50
     itemType: 2
-    amount: 10
+    amount: 1
 --- !u!4 &1776319519
 Transform:
   m_ObjectHideFlags: 0
@@ -3063,6 +3073,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   item:
+    value: 70
     itemType: 3
     amount: 1
 --- !u!4 &2053937151

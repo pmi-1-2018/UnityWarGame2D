@@ -6,7 +6,7 @@ public class PoorMansShield : Artifact
 {
     private void Start()
     {
-        value = 50;
+        value = 1000;
         type = ArtifactType.fightArt;
     }
 

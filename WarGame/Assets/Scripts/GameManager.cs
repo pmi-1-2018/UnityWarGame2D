@@ -44,20 +44,18 @@ public class GameManager : MonoBehaviour
     {
         var attackingArmy = attackingPlayer.GetComponent<Army>().GetArmy;
         var defendingArmy = opponent.GetComponent<Army>().GetArmy;
-        foreach (GameObject art in attackingPlayer.GetComponent<Army>().GetArtifacts)
+        foreach (Item art in attackingPlayer.GetComponent<Army>().GetInventoryItems)
         {
-            var artComp = art.GetComponentInChildren<Artifact>();
-            if (artComp.Type == ArtifactType.fightArt)
+            if (art.itemType == Item.ItemType.HealthPotion)
             {
-                artComp.EnableBoost(attackingArmy);
+                art.EnableBoost(attackingArmy);
             }
         }
-        foreach (GameObject art in opponent.GetComponent<Army>().GetArtifacts)
+        foreach (Item art in opponent.GetComponent<Army>().GetInventoryItems)
         {
-            var artComp = art.GetComponentInChildren<Artifact>();
-            if (artComp.Type == ArtifactType.fightArt)
+            if (art.itemType == Item.ItemType.ManaPotion)
             {
-                artComp.EnableBoost(defendingArmy);
+                art.EnableBoost(defendingArmy);
             }
         }
         int turn = 0;

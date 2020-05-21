@@ -4,12 +4,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [Serializable]
-public class Item 
+public class Item
 {
-
+    public int value;
     public ItemType itemType;
     public int amount;
- 
+
+    public int Value { get => value; }
+    public ItemType Type { get => itemType; }
+
     public enum ItemType
     {
         Sword,
@@ -17,6 +20,18 @@ public class Item
         Coin,
         ManaPotion,
         Medkit,
+    }
+
+    public int GetValue()
+    {
+        switch (itemType){
+            default:
+            case ItemType.Sword:        return ItemAssets.Instance.swordValue;
+            case ItemType.HealthPotion: return ItemAssets.Instance.healthPotionValue;
+            case ItemType.ManaPotion:   return ItemAssets.Instance.manaPotionValue;
+            case ItemType.Coin:         return ItemAssets.Instance.coinValue;
+            case ItemType.Medkit:       return ItemAssets.Instance.medkitValue;
+        }
     }
 
     public Sprite GetSprite(){
@@ -44,4 +59,13 @@ public class Item
                 return false;
         }
     }
+
+    public void EnableBoost(List<GameObject> army)
+    {
+        foreach (GameObject unit in army)
+        {
+            unit.GetComponentInChildren<Unit>().Health += value;
+        }
+    }
+
 }

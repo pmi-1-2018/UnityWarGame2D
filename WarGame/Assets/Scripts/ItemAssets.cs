@@ -18,4 +18,11 @@ public class ItemAssets : MonoBehaviour
     public Sprite manaPotionSprite;
     public Sprite coinSprite;
     public Sprite medkitSprite;
+
+    public int swordValue;
+    public int healthPotionValue;
+    public int manaPotionValue;
+    public int coinValue;
+    public int medkitValue;
+
 }
