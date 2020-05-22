@@ -40,23 +40,23 @@ public class Player : MonoBehaviour
         {
             case Item.ItemType.HealthPotion:
                 Debug.Log("It's HEALTH POTION");
-                inventory.RemoveItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
+                //inventory.RemoveItem(new Item { itemType = Item.ItemType.HealthPotion, amount = 1 });
                 break;
             case Item.ItemType.ManaPotion:
                 Debug.Log("It's MANA POTION");
-                inventory.RemoveItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1 });
+                //inventory.RemoveItem(new Item { itemType = Item.ItemType.ManaPotion, amount = 1 });
                 break;
             case Item.ItemType.Coin:
                 Debug.Log("It's COIN");
-                inventory.RemoveItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
+                //inventory.RemoveItem(new Item { itemType = Item.ItemType.Coin, amount = 1 });
                 break;
             case Item.ItemType.Medkit:
                 Debug.Log("It's MEDKIT");
-                inventory.RemoveItem(new Item { itemType = Item.ItemType.Medkit, amount = 1 });
+                //inventory.RemoveItem(new Item { itemType = Item.ItemType.Medkit, amount = 1 });
                 break;
             case Item.ItemType.Sword:
                 Debug.Log("It's SWORD");
-                inventory.RemoveItem(new Item { itemType = Item.ItemType.Sword, amount = 1 });
+                //inventory.RemoveItem(new Item { itemType = Item.ItemType.Sword, amount = 1 });
                 break;
         }
     }
@@ -128,15 +128,12 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        //if (collision.gameObject.tag == "Item")
-        //{
-            ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
-            if (itemWorld != null)
-            {
-                inventory.AddItem(itemWorld.GetItem());
-                itemWorld.DestroySelf();
-            }
-        //}
+        ItemWorld itemWorld = collision.GetComponent<ItemWorld>();
+        if (itemWorld != null)
+        {
+            inventory.AddItem(itemWorld.GetItem());
+            itemWorld.DestroySelf();
+        }
     }
 
     void Move()
