@@ -60,27 +60,27 @@ public class Item
 
     public void EnableBoost(List<GameObject> army)
     {
-       
-            switch (itemType)
-            {
-                default:
-                case ItemType.Coin:
-                case ItemType.ManaPotion:
+
+        switch (itemType)
+        {
+            default:
+            case ItemType.Coin:
+            case ItemType.ManaPotion:
                 break;
-                case ItemType.Sword:
+            case ItemType.Sword:
                 foreach (GameObject unit in army)
                 {
                     unit.GetComponentInChildren<Unit>().Damage += GetValue();
                 }
                 break;
-                case ItemType.HealthPotion:
-                case ItemType.Medkit:
+            case ItemType.HealthPotion:
+            case ItemType.Medkit:
                 foreach (GameObject unit in army)
                 {
                     unit.GetComponentInChildren<Unit>().Health += GetValue();
                 }
                 break;
-            }
+        }
             
         
     }
